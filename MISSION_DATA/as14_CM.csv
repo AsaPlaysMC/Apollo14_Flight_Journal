@@ -26,7 +26,7 @@
 00|00|01|00|CMP|One minute and 69.
 00|00|01|12|CC|14, Houston. Everything looks good here on the ground.
 00|00|01|16|CDR|Roger.
-00|00|01|29|CDR|And we got through MAX q real fine, troops.
+00|00|01|29|CDR|And we got through MAX Q real fine, troops.
 00|00|01|32|CMP|Yes.
 00|00|01|36|LMP|Watch her go.
 00|00|01|40|CDR|Now, we're off and running. Look at the ice coming off.
@@ -96,7 +96,7 @@
 00|00|04|20|CMP|We're about 50 miles, Ed.
 00|00|04|22|LMP|Oh, great. Everything's GO on this side, Al.
 00|00|04|27|CDR|Good show, buddy.
-00|000|4|29|LMP|Okay.
+00|00|04|29|LMP|Okay.
 00|00|04|31|CMP|04:30. 73.5. We are absolutely beautiful. It is right in the fracking money. There's a little more ice flaking off.
 00|00|04|43|CDR|Okay. We?re still upstaging for three-on program at this point.
 00|00|04|50|CMP|We don't have S-IVB - -
@@ -397,7 +397,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|00|40|02|CMP|Okay. Does it call for me to turn the OPTICS -G/N OPTICS POWER, OFF?
 00|00|40|06|LMP|... 16.
 00|00|40|07|CMP|Here, I should get out my checklist....
-00|00|40|10|LMP|OPTICS - Let's see. No, I don't see that. It says POO - -
+00|00|40|10|LMP|OPTICS - Let's see. No, I don't see that. It says P00 - -
 00|00|40|15|CMP|RETICLE - -
 00|00|40|16|LMP|-- RETICLE BRIGHTNESS, dim.
 00|00|40|17|CMP|Okay. Stow optics eyepieces and increase S-band volume. I never decreased it. You know, we don't have any - We have SQUELCH, ENABLE?
@@ -408,7 +408,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|00|40|45|CDR|Okay, Ed. The GDC's alined.
 00|00|40|47|LMP|All right.
 00|00|40|50|CMP|Okay.
-00|00|40|53|LMP|Okay, Stu, to POO. Okay.... PRESS is okav 02 PRESS - *
+00|00|40|53|LMP|Okay, Stu, to P00. Okay.... PRESS is okav 02 PRESS - *
 00|00|41|08|CDR|Got a full load of RCS fuel for you.
 00|00|41|11|CMP|That's right. We'll use it tc burn.... quiet.
 00|00|41|14|CDR|Yes. ^ Let's take is easy on that stuff. Just tap it like it's forever. Son of a bitch! That booster was good, wasn?t it?
@@ -444,7 +444,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|00|42|54|LMP|Yes, that really was.
 00|00|42|56|CMP|I expected more vibration.
 00|00|42|57|CDR|I really did, too.
-00|00|42|CD|CMP|I was really -
+00|00|42|58|CMP|I was really -
 00|00|42|59|CDR|Yes, I thought that was a real smooth ride. Real smooth. Okay. Let's keep pressing ahead here. Slowly but surely. How you doing, Ed?
 00|00|43|15|LMP|Okay. Proceeding through my systems check.
 00|00|43|20|CMP|I got a bag coming up your side there. Ocp! Hey, another one got away - the other two are up behind your head. Can you reach them?
@@ -1164,7 +1164,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|02|36|22|CC|Roger; 04399-
 00|02|36|25|LMP|Okay, FDAI number 1, INERTIAL; RHC number 2, locked.
 00|02|36|29|CMP|Okay, FDAI number 1 is now INERTIAL; RHC number 2 is new locked.
-00|02|36|35|LMP|And Stu is going to PRO and to POO.
+00|02|36|35|LMP|And Stu is going to PRO and to P00.
 00|02|36|37|CMP|Okay. Let me get the ACTIVITY light cut.
 00|02|36|39|CDR|How close did that baby cut out?
 00|02|36|42|LMP|On time.
@@ -1278,7 +1278,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|03|03|55|CMP|What's cur range?
 00|03|03|56|LMP|What ?
 00|03|03|57|CMP|Are we within - Oh, yes.
-00|03|33|59|LMP|Oh, yes.
+00|03|03|59|LMP|Oh, yes.
 00|03|04|00|CDR|I'd say it's - Oh, yes, we're real fine, Stu.
 00|03|04|03|LMP|Come right cn down to - Steady as a rock.
 00|03|04|06|LMP|Houston, 14.
@@ -1314,8 +1314,8 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|04|32|21|CMP|My alinement is good. Stand by.
 00|04|32|25|LMP|Here it comes.
 00|04|32|33|CMP|No.
-00|04|32|38|CDR|No, No latch.
-00|04|32|37|CMP|No got - no latch, Houston.
+00|04|32|37|CDR|No, No latch.
+00|04|32|38|CMP|No got - no latch, Houston.
 00|04|32|40|CC|Roger.
 00|04|55|40|LMP|About 6 feet out.
 00|04|56|21|LMP|About - 2 feet.
@@ -1365,7 +1365,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|05|47|37|CDR|Okay.
 00|05|47|38|CMP|Check the CRYO PRESS.
 00|05|47|39|LMP|Okay, CRYO PRESS.
-00|05|77|43|CMP|These 0^ tanks there are closed?
+00|05|47|43|CMP|These 0^ tanks there are closed?
 00|05|47|45|LMP|No, I think that's surge tanks - -
 00|05|47|46|CMP|No, that's the surge tanks.
 00|05|47|48|LMP|Okay, there it is. Tank 3. Want the heaters off?
@@ -1380,9 +1380,9 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|05|48|11|LMP|- - that just dropped down.
 00|05|48|16|CDR|Really sparkles.
 00|05|48|17|CMP|Okay, let's keep us honest, Ed.
-00|05|48|18|LMP|Okay, go to POO.
-00|05|48|19|CDR|We're at POO.
-00|05|48|20|CMP|We've gone to POO.
+00|05|48|18|LMP|Okay, go to P00.
+00|05|48|19|CDR|We're at P00.
+00|05|48|20|CMP|We've gone to P00.
 00|05|48|21|LMP|Com - COMPUTER ACTIVITY light out. Do a VERB 66.
 00|05|48|25|CDR|VERB 66 ENTER.
 00|05|48|27|LMP|SECS PYR0 ARM, two, SAFE.
@@ -1393,10 +1393,10 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 00|05|48|40|CMP|Okay. I've got the ARMs, off; the LOGICs, OFF; and
 00|05|48|47|LMP|Okay. I'm pulling the S-IVB/LM SEP open.
 00|05|48|48|CDK|Ready.
-00|05|48|49|CMP|Okay. CMC, AUTO; RATE 2, and RATE COMMAND --
+00|05|48|49|CMP|Okay. CMC, AUTO; RATE 2, and RATE COMMAND - -
 00|05|48|53|LMP|Okay. And I'm going to verify the ... 3? -
 00|05|48|57|CMP|How about our RCS ... - -
-00|05|48|53|CDR|Okay. Let' s - -
+00|05|48|58|CDR|Okay. Let's - -
 00|05|49|00|CMP|- - He - -
 00|05|49|04|CDR|- - ... check these things off.
 00|05|49|04|LMP|Okay.
@@ -1449,9 +1449,9 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 01|06|36|11|LMP|3.
 01|06|36|12|CMP|-~c ...
 01|06|36|13|LMP|5, 4, 3, 2, 1 -
-01|06|36|18,|KIP|ZERO. There it is.
+01|06|36|18|LMP|ZERO. There it is.
 01|06|36|20|CMP|ENTER. G&N SHUTDOWN.
-01|06|36|O]|LMP|All right, good.
+01|06|36|21|LMP|All right, good.
 01|06|36|23|CMP|All righty, we've had shutdown. DELTA-V CHEWS. , two, OFF; verify our gimbal motors coming off.
 01|06|36|29|CMP|I wonder if those were stowed right (laughter). Okay, you ready, number 2?
 01|06|36|33|LMP|Yes.
@@ -1546,12 +1546,12 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|04|38|04|CMP|98 - -
 03|04|38|05|CDR|... 98 04, 1.6, 0.16, 0.016 per second. Eight? 0.016 per second.
 03|04|38|29|CDR|Want me to check it?
-03|04|33|34|CMP|Yes.
+03|04|38|34|CMP|Yes.
 03|04|38|40|CDR|You're right.
 03|04|38|41|CMP|How about a sextant star check there, leader.
 03|04|38|45|CDR|Okay.
 03|04|38|46|CMP|We're in attitude.
-03|04|33|49|LMP|Did you get your optics set up?
+03|04|38|49|LMP|Did you get your optics set up?
 03|04|38|52|CDR|I just caught up.
 03|04|38|56|LMP|Okay.
 03|04|39|10|CDR|You want to give me the angle?
@@ -1588,8 +1588,8 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|04|44|40|CDR|... mu ch.
 03|04|44|44|CMP|Okay. 33072. Let's - add something ...
 03|04|44|49|LMP|Yes, that figures. 335.
-03|04|41|52|CMP|And we're 330, so we're 0.5. We pass?
-03|04|11|57|CDR|Pass.
+03|04|44|52|CMP|And we're 330, so we're 0.5. We pass?
+03|04|44|57|CDR|Pass.
 03|04|44|58|LMP|Pass.
 03|04|44|59|CMP|Pass.
 03|04|45|15|CMP|Hey, ... why don't you leave it on there. Last night, we noticed it took a little while for the narrow to take effect.
@@ -1757,11 +1757,11 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|04|58|44|CMP|MAIN BUS TIEs, OFF.
 03|04|58|45|CDR|MAIN BUS TIEs, OFF.
 03|04|58|46|CMP|PRO.
-03|04|58|43|LMP|A's OFF.
+03|04|58|48|LMP|A's OFF.
 03|04|58|49|CMP|Beautiful.
 03|04|58|52|LMP|And B's OFF.
 03|04|58|53|CDR|... zero ...
-03|04|58|5V|CMP|Minus 2.4.
+03|04|58|57|CMP|Minus 2.4.
 03|04|58|59|CDR|
 03|04|59|00|CMP|Okay.
 03|05|02|05|CDR|Just so we'll be there. And I need to do a P51 ... Okay.... six.
@@ -1836,9 +1836,9 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|09|50|40|CMP|OFF.
 03|09|50|41|CDR|BIMAGs, three, one-half.
 03|09|50|43|CMP|Okay. Go ahead.
-03|09|50|45|þCDR|Okay. SPACECRAFT CONTROL, SCS; RHC 2, armed.
+03|09|50|45|CDR|Okay. SPACECRAFT CONTROL, SCS; RHC 2, armed.
 03|09|50|48|CMP|SCS and RHC, armed.
-03|09|50|40|CDR|Bring on number l's.
+03|09|50|50|CDR|Bring on number l's.
 03|09|50|51|CMP|We're a minute early. Let's save a little mere time ...
 03|09|50|55|CER|
 03|09|51|05|CMP|Please don't wear them out until after TEI (Yawn)
@@ -2248,7 +2248,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|11|52|27|CDR|That was a bit vague at that point.
 03|11|52|29|LMP|Yes.
 03|11|52|42|CDR|And we got the IM transmitter lights ... out.
-03|11|52|59|CDR|POO update. And - right here might give you some trouble.... power ...
+03|11|52|59|CDR|P00 update. And - right here might give you some trouble.... power ...
 03|11|53|13|LMP|Roger. Getting into ... now. Tried to look for -
 03|11|53|33|CDR|Okay. Let's see.
 03|11|53|47|CDR|101:50 ... in the IM.
@@ -2273,18 +2273,18 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|11|56|26|CMP|Well, see, we're in a 5-degree dead band.
 03|11|56|27|CDR|Yes.
 03|11|56|29|CMP|If you change that - if you change that to a narrow dead band, it will immediately fire and bring you over to the center of that 5-degree dead band. What cycling this to FREE and AUTO does is - it centers the dead band.
-03|11|56|Hi|CDR|I already did it once before I called up the 43 ... - -
+03|11|56|41|CDR|I already did it once before I called up the 43 ... - -
 03|11|56|43|CMP|Well, I was noticing the roll - the drift up. See, you're going to a - a half a degree dead band - -
 03|11|56|48|CDR|.. . drifted off.
 03|11|56|50|CMP|- - so, anything - more than a half a degree will cause a jet to fire.
 03|11|56|53|CDR|Yes, okay. It was off half a degree?
 03|11|56|56|CMP|Well, you knew, what - what's a half a degree. It was off a little bit.
 03|11|57|00|CDR|The att - it was actually rolling apparently.
-03|11|57|4|CMP|Yes, we're - you know, we're - we were drifting in a 5-degree dead band. It's just that I'm real -See, we just had a firing there. Yes, after we sat there and talked about it. It's - it's the PRO on that 21101. Son of a gun. See, we just wasted some gas. We were talking about it.
+03|11|57|04|CMP|Yes, we're - you know, we're - we were drifting in a 5-degree dead band. It's just that I'm real -See, we just had a firing there. Yes, after we sat there and talked about it. It's - it's the PRO on that 21101. Son of a gun. See, we just wasted some gas. We were talking about it.
 03|11|57|33|CDR|We were talking ... ?
 03|11|57|36|CMP|Yes, But see, if you're moving, you've established it at that point. But then, if you're drifting along - and I should have remembered that, as many times as I've ... watched that. Anyway, you ENTER; and then when you PRO on - on the 21101, what you're doing is, you're shrinking your phase plane now to a half a degree dead band. But you don't change the center.
 03|11|58|06|CDR|You change your center by going to FREE - -
-03|11|58|07|CMP|Y es.
+03|11|58|07|CMP|Yes.
 03|11|58|08|CDR|- - and back to AUTO.
 03|11|58|11|CMP|See, we had already drifted out, because we got the firing.
 03|11|58|13|CDR|Yes, Okay. Well, we should have - -
@@ -2456,7 +2456,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|13|13|55|LMP|The beautiful sight on the crater Eratosthenes, Timarcus [sic], and Wallace. Timarcus [sic] is -I mean Timocharis - is Just as - Just on my horizon, as we approach the terminator. Eratosthenes is about halfway to the horizon. They are very stark. It's a magnificent sight.
 03|13|14|47|LMP|Okay. Back to work.
 03|13|14|48|CMP|Okay. Stand by 1.
-13|13|24|45|CDR|Okay. We want to get into 40 for a couple minutes before we have LOS, so they can take a look at it.
+03|13|24|45|CDR|Okay. We want to get into 40 for a couple minutes before we have LOS, so they can take a look at it.
 03|13|25|04|CMP|It might be for the P52, too. See, if we didn?t have a roll, I don't know whether it would be a ... or not. Shouldn?t he.... Well, I won't try to figure that out.
 03|13|25|19|CDR|I don't think the roll off ... called 40.
 03|13|25|25|CMP|Yes. Okay. I need - ... I hook every time that come - -
@@ -2499,7 +2499,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|13|48|48|CMP|Yes, when I was looking for Procyon.
 03|13|48|51|CDR|Oh, all the light's coming from earthshine, I guess
 03|13|48|55|CMP|Yes. But that's when - See, I had the 60-degree roll in; so the optics were pointed - tetter spot.
-33|13|49|06|CDR|
+03|13|49|06|CDR|
 03|13|49|12|LMP|Okay, LOS.
 03|13|50|41|CDR|Sure is strange that we can he able to see the rest of the constellations.
 03|13|50|51|CDR|Okay. Optics, ZERO.
@@ -2682,10 +2682,10 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|14|07|36|CMP|Ckay. 1.45; minus O.'J.
 03|14|07|40|CDR|Okay. Set the FDAI SCALE 5/5.
 03|14|07|45|CMP|5/5.
-03|04|07|48|CDR|Okay, RATE, HIGH?
+03|14|07|48|CDR|Okay, RATE, HIGH?
 03|14|07|49|CMP|RATE is HIGH.
 03|14|07|51|CDR|Check the DET at 67. 3, 2, 1 -
-03|04|07|54|CDR|MARK. Okay. Verify two SPS HELIUM VALVES In AUTO. Barber pole.
+03|14|07|54|CDR|MARK. Okay. Verify two SPS HELIUM VALVES In AUTO. Barber pole.
 03|14|08|01|LMP|Verify.
 03|14|08|03|CDR|Check K A and B.
 03|14|08|06|LMP|You've got that.
@@ -2745,7 +2745,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|14|11|37|CLP|PITCH 1, OFF.
 03|14|11|38|LMP|You got it.
 03|14|ii|39|CMP|TVC SERVO POWER.
-03|13|11|40|LMP|Okay.
+03|14|11|40|LMP|Okay.
 03|14|11|41|CMP|Okay.
 03|14|11|42|LMP|Let?s go to LOW BIT PATE.
 03|14|11|56|CMP|What's our rule? It's less than 1, I believe.
@@ -2837,7 +2837,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|14|17|39|LMP|As a matter of fact, if I - hadn't realized it was tine for crossover, I'd have still been controlling that thing about a minus 150 at the end of the burn, because there was no indication of - on the gages at crossover.
 03|14|17|56|CDR|You didn't have a high that time, did you?
 03|14|18|03|CM|No, it - it was about 105- Sounds like to me it was just - maybe just a tad over.
-03|14|16|06|CDR|Okay. Everything agreed then. P and burn time and EMS and G&N. L
+03|14|18|06|CDR|Okay. Everything agreed then. P and burn time and EMS and G&N. L
 03|14|18|11|CMP|"No. There's a ""no vote"" thing in there ..."
 03|14|18|17|LMP|Right, no question as far as any of the onboard stuff is concerned. And that's the way it should be. Hey, look at that.
 03|14|18|27|CDR|Ckay.
@@ -2863,7 +2863,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|14|20|03|LMP|Well, we only have one. That's in the LM bag, Al. What was that 180-degree time?
 03|14|20|16|CDR|We lost it.
 03|14|20|18|CMP|86:53:05.
-03|14|20|2S|LMP|86:53:05, Here we go.
+03|14|20|25|LMP|86:53:05, Here we go.
 03|14|20|36|CMP|Hey, Al, when you're - there - there's a book in there, my CSM Landmark Book; I put it in there for the burn, because I think you - I think it's over toward the right, maybe toward the back. Way back in there; it'll be about an inch and a half thick.... There we go.
 03|14|21|01|LMP|Put that in there.
 03|14|21|04|CMP|Thank you.
@@ -2964,7 +2964,6 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|14|35|25|CDR|Ckay. The burn went essentially normally. Burn time was 20.6 seconds with the following residuals on the G&N shutdown: plus 0.6, plus 0.2, 0; EELTA-V^, minus 6.2. You with me?
 03|14|35|53|CC|
 03|14|36|08|CDR|That is correct. Fuel, 31.7, oxidizer, 31.4 - -
-|||||TINE SKIP
 03|15|38|47|SC|"(Music - ""Truck Driving Man"")"
 03|15|39|00|LMP|What is that?
 03|15|39|04|CDR|Go ahead, Houston.
@@ -2979,12 +2978,12 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|15|40|30|LMP|I knew lunch was a little short today.
 03|15|40|34|ODE|Well, they knew we were going to he busy.
 03|15|40|37|If|Yes. Yes, we didn't (cough) - -
-03|15|40|3S|CDR|We don't get any wetpacks tonight, huh?
+03|15|40|38|CDR|We don't get any wetpacks tonight, huh?
 03|15|40|49|LMP|I'm going to have to look again. I thought we did
 03|15|40|57|CDR|I'll check it.
 03|15|41|03|CDR|Yes, I might use a blue bag tonight.
 03|15|41|13|LMP|Well, I'm sure going to try. Hell, you - -
-03|15|41|20|'CDR|Day - day - day 4, meal C?
+03|15|41|20|CDR|Day - day - day 4, meal C?
 03|15|41|24|LMP|Yes, that's those other ones we have - -
 03|15|41|26|CDR|It says a greef-and-bav - beef-and-gravy vetpack. Stu's supposed to have a beef-and-gravy vetpack.
 03|15|41|35|LMP|And I'm supposed to have a beef-and-gravy vetpack.
@@ -3013,7 +3012,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|15|44|27|CDR|Babies stay pretty cool in that stuff - place in there.
 03|15|45|25|CDR|We're going to use the hot water only?
 03|15|45|27|CMP|What ?
-03|15|45|23|CDR|Use the separator on the cold water - on trie cold water only, right?
+03|15|45|28|CDR|Use the separator on the cold water - on trie cold water only, right?
 03|15|45|30|CMP|Yes, I think that's the plan.
 03|15|45|33|CDR|Ckay. Now let?s see, you can put 3 ounces ;f hot in that baby. And I'll go up and unsnap the gun. Okay, that ...
 03|15|45|52|CMP|Ch, ckay.
@@ -3051,10 +3050,10 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|15|51|52|CDR|"f ""Laughter)"
 03|15|54|29|CMP|I can't understand it.
 03|15|54|42|CMP|Are we doing what we're supposed to be doing, leader?
-03|15|54|4V|CDR|... maneuver to 352.
+03|15|54|47|CDR|... maneuver to 352.
 03|15|54|49|CMP|Okay.
 03|15|54|50|CIR|146, 35 5.
-03|15|54|5V|CMP|When dc we get out the Hycon -
+03|15|54|57|CMP|When dc we get out the Hycon -
 03|15|55|01|LMP|... camera in 10 minutes.
 03|15|55|25|SC|(Music)
 03|15|55|54|CMP|Another tissue box empty. I have to stew that -
@@ -3092,8 +3091,8 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|16|05|00|LMP|Well, Stu? We better get with it, baby.
 03|16|05|07|CER|Better start configuring the camera. Finish dinner later.
 03|16|05|21|CMP|Yes. Why don't you let me finish this?
-03|16|05|3l.|LMP|... one is terrible ...
-03|16|05|28|CMP|Well, I went to all the trouble; I'm going to eat something.
+03|16|05|28|LMP|... one is terrible ...
+03|16|05|31|CMP|Well, I went to all the trouble; I'm going to eat something.
 03|16|05|36|CMP|... food packs are stuck ...
 03|16|06|05|CMP|That's a horrible record. Acoustics on it aren't any good.
 03|16|06|10|LMP|In love.
@@ -3110,12 +3109,12 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|16|07|26|CDR|Need some more of these.
 03|16|07|28|LMP|Pardon ?
 03|16|07|30|CDR|Okay, everybody, it's zero minutes. Oeneral quarters stations for the LTC....
-0303|16|07|49|LMP|Five seconds -
-03|16|07|54|LMP|MARK.
+03|16|07|39|LMP|Five seconds -
+03|16|07|40|LMP|MARK.
 03|16|07|42|CDR|Okay.
 03|16|07|48|CMP|Got to put that up in the tunnel?
 03|16|07|53|LMP|Everything else can remain, can't it?
-03|16|08|57|CMP|Yes.
+03|16|07|57|CMP|Yes.
 03|16|10|36|CDR|We need a grounding wire for this thing ... any way. We used to have .. .
 03|16|10|40|CMP|Altitude chamber only.
 03|16|10|45|CDR|This is big er.d forward, right?
@@ -3192,7 +3191,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|16|16|40|LMP|Power, off.
 03|16|16|41|CMP|Power's off.
 03|16|16|42|LMP|Checkout complete.
-33|16|16|44|CMP|Okay. Let's get a time here off' the clock. Okay, it'11 be ... 87:66.
+03|16|16|44|CMP|Okay. Let's get a time here off' the clock. Okay, it'11 be ... 87:66.
 03|16|17|00|CDR|120.
 03|16|17|04|CMP|C6, 65, and I'll ENTER on - 13:21. I -
 03|16|17|15|CMP|HACK. Ckay. That was 13 hours and 21, 2, 3, 4, 5 - 13:21. Coarse time.
@@ -3208,8 +3207,8 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|16|20|58|CDR|
 03|16|21|00|CMP|Okay, we'll get a tweak to the maneuver. We'll get a pad, and we'll be in business.
 03|16|24|08|CDP|I guess you don't have any yellow pills, dc you?
-03|16|24|13|CMP|One yellow pill.
-03|16|24|lc|CDR|Well, do you need it?
+03|16|24|10|CMP|One yellow pill.
+03|16|24|13|CDR|Well, do you need it?
 03|16|24|17|CMP|No. I got one. I brought it up here, tut I get one on this cocoa ...
 03|16|24|26|LMP|There's your ... right behind you.
 03|16|24|56|CMP|Where do they have those, down in the pantry?
@@ -3262,7 +3261,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|16|57|24|CMP|... about frames 141 -
 03|16|57|48|CMP|Strange
 03|16|58|16||[Camera speed change]
-03|16|56|37|CMP|Roger.
+03|16|58|37|CMP|Roger.
 03|16|58|39|???|Roger. It seems to be functioning properly.
 03|16|58|43|CMP|Huh?
 03|16|58|44|LMP|It seems to be taking it up properly.
@@ -3297,7 +3296,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 03|17|45|25|CMP|I am. I am flat ready.
 03|17|45|32|CDR|Okay, the canister comes out of where?
 03|17|45|38|LMP|The LiCH canister comes out of where?
-03|17|45|19|CMP|Nine into A, stow 7 and B-6.
+03|17|46|19|CMP|Nine into A, stow 7 and B-6.
 03|17|46|29|CMP|... Okay. 123 286 ...
 03|17|46|57|CDR|... in B-6. 9 into A.
 03|17|47|20|CDR|Okay, it's done.
@@ -3415,7 +3414,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|02|50|04|CC|... We want to go back to TRACK mode, MANUAL; and we'll use the positions that you have set on the FITCH and YAW dials at present.
 04|02|50|15|LMP|Okay.
 04|02|50|30|LMP|Okay, Houston, there's MANUAL.
-4|02|50|32|CMP|Say again?
+04|02|50|32|CMP|Say again?
 04|02|50|43|LMP|God damn it. We have LOS? At what time?
 04|02|51|18|CDR|
 04|02|51|21|CMP|No, I didn't eat that last night. Never got around to it. Why don't you just leave it there? Maybe I'11 eat it.
@@ -3565,7 +3564,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|05|09|58|CDR|Are you getting your suit on?
 04|05|10|03|LMP|No.
 04|05|10|11|CDR|Okay. Probe was removed. Drogue was removed.
-04|05|11|07|CDR|Yes, I'm aware of all that. The HIGH GAIN is -is selected from new attitude, and Ed verified -tape motion. Okay, here's a VERB 48 here. Do we change the DAP load here? Yes, we do. Go to wide dead band, here. Okay. Let's see, we just completed the 48-49 maneuver, Stu. And, I've gone to ENTER. We're sitting in POO in attitude -I'll just go ahead and change the DAP right here from narrow to wide without getting ... on it, right?
+04|05|11|07|CDR|Yes, I'm aware of all that. The HIGH GAIN is -is selected from new attitude, and Ed verified -tape motion. Okay, here's a VERB 48 here. Do we change the DAP load here? Yes, we do. Go to wide dead band, here. Okay. Let's see, we just completed the 48-49 maneuver, Stu. And, I've gone to ENTER. We're sitting in P00 in attitude -I'll just go ahead and change the DAP right here from narrow to wide without getting ... on it, right?
 04|05|12|01|CMP|
 04|05|12|03|CDR|We've gone through the 49; got the 58 gainer added, so we're sitting here. We got a narrow dead hand; the flight plan says we swing to a wide dead hand, here; going to do that right now without changing phase plane and getting any jet firing. Okay. VERB 48 ENTER; VERB 21 ENTER; and I'm going tc a 2 and all l's. Okay. 1111. ENTER. And we're still using B/D ROLL. B/D ROLL is set up. We'll PRO on through. Okay, babe, you're in wide lead band.
 04|05|13|17|CDR|How's our friend, the LMP, doing?
@@ -3690,7 +3689,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|09|09|01|CMP|And you're hanging on the end of the probe. We'll wait until motions damp here, Okay. We seem real steady. I'm going to back off from you.
 04|09|09|15|CDR|Okay. Very good.
 04|09|09|28|CDR|Okay. We had a normal undocking, Houston.
-04|09|09|36|LMP|Okay. DEAD BAND, MIN; VERB 77; go to POO.
+04|09|09|36|LMP|Okay. DEAD BAND, MIN; VERB 77; go to P00.
 04|09|10|12|LMP|Stu, are you going to be able to burn on time? Okay. We don't see you, but I guess we will when you light off.
 04|09|11|03|LMP|Give us a 15-second warning if you - can, Stu.
 04|09|11|14|CMP|About 35 seconds. Have 30. EMS, NORMAL.
@@ -3717,7 +3716,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|11|29|35|LMP|Okay.
 04|13|38|11|CMP|Houston, 14, How do you read? ...
 04|13|38|30|CMP|Well, how're the troops of Antares making out? Do you have an estimate on the landing spot yet, Ren?
-0404|13|38|51|CMP|How far from the spot? Did they - they come right in on the first pick?
+04|13|38|51|CMP|How far from the spot? Did they - they come right in on the first pick?
 04|13|39|05|CMP|Roger. Are they right on the target?
 04|13|39|26|CMP|Oh, okay.
 04|13|43|41|CMP|Houston, 14 - Kitty Hawk.
@@ -3736,7 +3735,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|15|23|26|CMP|... 5.
 04|15|23|43|CMP|Okay, starting at 9:05.
 04|15|23|58|CMP|... yet. If not ... -
-)4|15|24|29|CMP|And approaching 4 minutes.
+04|15|24|29|CMP|And approaching 4 minutes.
 04|15|25|02|CMP|Okay, there are my targets. Targets A, B, C.
 04|15|25|26|CMP|Okay, standing by to start the time. That's 5 minutes.
 04|15|25|43|CMP|MARK, Intervalometer going. Okay, I have targets A, B, and C. C will be the first into the zero-phase. Picked them up without any difficulty at all.... anyway. Intervalometer ... again.
@@ -3756,7 +3755,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|15|32|21|CMP|And just a little more on the debriefing, I think if there's some relief around, it helps you quite a bit. Like C was out flat, and you'd lose it. B, I had the good chain of craters going into it, so you could pick that up, and - and A, also. It was the landmarks that really - really had you pick it up. But when it's out flat, it just washed it out completely.
 04|15|33|08|CMP|Okay, Houston, Kitty Hawk,
 04|15|33|59|CMP|344.7, 340.9, ...
-0404|15|34|17|CMP|Hello, Houston. This is Kitty Hawk.
+04|15|34|17|CMP|Hello, Houston. This is Kitty Hawk.
 04|15|36|57|CMP|Kitty Hawk. How do you read?
 04|15|37|07|CMP|Well ... I never saw B at all, and A ... pick up ... zero-phase, B was just completely wiped out.... clue is ... some relief by you, even in zero-phase ... best of the three . . , pretty well hang ... and A was about ...
 04|15|38|31|CMP|Well ...
@@ -3775,7 +3774,6 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 04|16|04|39|CMP|There's zero-phase just about on A, and the camera took the picture. Okay, we went through zero-phase on A with - with no problem - hanging on to the landmark itself.
 04|16|04|56|CMP|Zero-phase is passing B - at this time. And it, again, is definitely no problem.
 04|16|05|12|CMP|And now, as we come cut of the - out of the zero-phase, it gets constantly better, of course. And I'll be switching targets at 09:58. It's 09:24 now. Both targets at Ptolemaeus are ready to pick up. Of course, it's no problem now picking those up.
-|16||||
 04|16|05|59|CMP|Okay, we're going to switch now and take a look at - at Parry. And - actually, this one here is again extremely easy. You can pick up both -both targets A and B as soon as you see it, r.c sweat. I think you'd use the - of course, you'd use the - Parry and Parry M to guide you into the area. But once you got into the area, why. A and B just stand out so good that, here again, it's -primarily - it's - the elevation angle helps, because we're up a little higher and - and, also, the bright crater stages show up extremely well. It's like you got the crater with a bright rim. It really helps with low elevation.
 04|16|07|08|CMP|In fact, zero-phase is approaching - approaching the area now. And both targets are - are hanging in there .
 04|16|07|22|CiIF|Camera went just right at zero-phase. And here again, it was extremely easy to recognize the targets - this would be - really, again, a nosweat proposition to pick the targets up. Zero-phase - really doesn't have that big an effect on -on these two targets.
@@ -3891,7 +3889,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|23|54|LMP|Okay, you have 30....
 05|22|24|04|LMP|... Okay, NOUN 58 ... 46 -
 05|22|24|15|CDR|
-05|22|24|13|LMP|885, 287. All right.
+05|22|24|18|LMP|885, 287. All right.
 05|22|24|29|LMP|... 1, plus 1 ... 631. That's pretty close ...
 05|22|25|00|CDR|... did you read our NOUN 81?
 05|22|25|04|CMP|Say again?
@@ -3934,7 +3932,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|29|19|CDR|Okay. To end ... ullage ...
 05|22|29|27|LMP|Okay.
 05|22|29|35|LMP|... manual start ... in ... seconds.
-05|22|29|19|CDR|
+05|22|29|39|CDR|
 05|22|29|43|LMP|... see, you're not - you're not only arming with the abort stage; if you don't get it, go ENGINE ARM, ASCENT.
 05|22|30|18|CDR|Ok ay.
 05|22|30|42|CDR|... set. Starting ullage. 6, 5, 4, PRO, 3, 2, 1, We have -
@@ -3960,13 +3958,13 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|33|32|CMP|Antares, Kitty Hawk,
 05|22|33|35|ODR|Go ahead?
 05|22|33|37|CMP|Hey, I was wondering if I could get, say, 20 seconds; see if I could get the VHF locked up?
-05|22|33|1?|LMP|Say when you need it.
+05|22|33|40|LMP|Say when you need it.
 05|22|33|43|CDR|Give us a mark. We'll be quiet for 20 seconds.
 05|22|33|46|CMP|Okay, 3, 2, 1 -
-05|22|33|41|CMP|MARK.
+05|22|33|51|CMP|MARK.
 05|22|34|09|CMP|Okay, Ed. I got - I got a hunch that's it. We're 26 now.
 05|22|34|13|LMP|Right on. We say 26. That's pretty good.
-05|22|31|17|CMP|
+05|22|34|17|CMP|
 05|22|34|20|CDR|VERB 67 ..?
 05|22|34|28|LMP|Yes, every time you get a reset, 3tu, give us a yell.
 05|22|34|31|CMP|Okay.
@@ -4045,8 +4043,8 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|46|39|CDR|We're in 35.
 05|22|46|41|LMP|Okay. VERB 93.
 05|22|46|48|CDR|Cot it.
-05|22|4/|01|LMP|... 9.
-05|22|4?|38|CDR|Yes, let me have that ...
+05|22|47|01|LMP|... 9.
+05|22|47|38|CDR|Yes, let me have that ...
 05|22|47|41|LMP|Okay.
 05|22|47|53|LMP|I want to put another film MAG on and get more of Stuart than I've got left on this one. I've got a batch of empty MAGs.
 05|22|48|08|LMP|34.
@@ -4057,7 +4055,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|49|43|CMP|Mar., that ...
 05|22|49|46|CDR|(Laughter) You get a little star down here?
 05|22|50|20|LMP|Okay, dock. T8,
-05|22|50|4u|LMP|Okay, TS, 250 at 10.
+05|22|50|40|LMP|Okay, TS, 250 at 10.
 05|22|50|52|CDR|You got to focus it.
 05|22|50|55|LMP|Huh?
 05|22|50|56|CDR|It says here you got to focus it. They don't tell you what the focus ...
@@ -4090,11 +4088,11 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|22|55|17|CDR|Climbing up the hill.
 05|22|55|22|LMP|... number 2 midcour.se?
 05|22|55|23|CDR|Yes. We'll have comp in ...
-)5|22|55|32|CDR|Nine thou and - -
-05|22|55|3e|Cl'IF|I tell you, now that is a wild sight watching ... intersect the terminator ,,.
+05|22|55|32|CDR|Nine thou and - -
+05|22|55|33|CMP|I tell you, now that is a wild sight watching ... intersect the terminator ,,.
 05|22|55|46|LMP|Twenty-nine thou ... Okay, we're bellying out just a little bit. Say again, Stu?
 05|22|56|01|CMP|I was saying that's a wild sight, looking down on you with the - just now starting to cross the terminator.
-05|22|5o|09|CDR|Yes, I!11 bet it is.
+05|22|56|09|CDR|Yes, I!11 bet it is.
 05|22|56|21|CDR|I'11 bet it is.
 05|22|56|46|CMP|Hey, you know, I saw the - I could see the ALSEP ... over ...
 05|22|56|51|CER|That's what they said. Ron was telling us chat. Man!
@@ -4120,16 +4118,16 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 05|23|01|22|CDR|Okay, put me back on the checklist now.
 05|23|01|25|LMP|Okay, Go tc P00.
 05|23|01|33|CDR|Okay.
-05|23|01|3b|LMP|VERB 48, 11 - Oh, you had to change that. Your VERB 48, 13002.
+05|23|01|36|LMP|VERB 48, 11 - Oh, you had to change that. Your VERB 48, 13002.
 05|23|01|43|CDR|Yes, well, we?re supposed to load four jets, you see, in case we have to -
-05|23|01|07|LMP|Yes. Well, do you want to put that in now or wait?
-35|23|01|19|CDR|Yes, might as well.
+05|23|01|47|LMP|Yes. Well, do you want to put that in now or wait?
+05|23|01|49|CDR|Yes, might as well.
 05|23|01|50|LMP|Okay, 13002.
 05|23|02|05|LMP|Okay. DAP's changed. Co p47.
 05|23|02|13|CDR|We read you loud and clear, Houston.
 05|23|02|21|CDR|Well, things just about as nominal as t.ney could be. We had good TPI and midcourses of around 1.9 and 1.1 feet per second, DELTA-V total, live you the exact numbers if you want them, but everything's just about nominal.
-05|23|02|02|LMP|And you're locked up on the steerable, Houston.
-05|23|02|07|CDR|Okay, Ed'll give them to you.
+05|23|02|22|LMP|And you're locked up on the steerable, Houston.
+05|23|02|27|CDR|Okay, Ed'll give them to you.
 05|23|02|48|LMP|Stand by.
 05|23|02|50|CDR|Ed?11 give them tc you.
 05|23|02|53|LMP|Okay, The numbers for TPI: NOUN 81, plus 6,2.1, plus 0.1, plus 63.1; burned or. time; and nulled PGN3 to 00 plus 0.1.
@@ -4238,7 +4236,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|43|10|CDR|Oh. That's true. If you don't have your .Cog light.
 08|23|43|18|CMP|Yes. If - if it didn't start itself. Damn, that Moon's -
 08|23|43|34|CDR|It's really hard to see it.
-09|23|43|35|CMP|Yes. I think I'll put it back up a little bit. Oh, there's the - the terminator coming.
+08|23|43|35|CMP|Yes. I think I'll put it back up a little bit. Oh, there's the - the terminator coming.
 08|23|43|41|CDR|Yes, if you roll a little bit, Ed'll get it.
 08|23|43|46|LMP|Yes. Yes. Okay, it's coming in nicely new.
 08|23|43|56|CC|Apollo 14, this is Houston - -
@@ -4289,7 +4287,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|46|l6|imp|Okay,
 08|23|46|18|CMP|That should be taken out of the checklist. Put that fills all the squares.
 08|23|46|23|LMP|Yes. You can have AUTO whether you need it or not, huh?
-08|23|16|29|CMP|That's right. Entry DAP does not look at the MODE switch.
+08|23|46|29|CMP|That's right. Entry DAP does not look at the MODE switch.
 08|23|46|32|CDR|Oh man, are we coming down!
 08|23|46|33|CC|Apollo 14, this is Houston through APIA 2. Row do you read? Over.
 08|23|46|35|CDR|Loud and clear, Houston.
@@ -4337,14 +4335,14 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|48|40|CMP|Okay, passing 2g's.
 08|23|48|43|CDR|2.
 08|23|48|45|CMP|2.4.
-08|23|48|00|CDR|2.8.
+08|23|48|47|CDR|2.8.
 08|23|48|49|CMP|Passing 3g's.
 08|23|48|50|CDR|3.2.
 08|23|48|51|CMP|Passing 4g's.
 08|23|48|52|CDR|3.7. Locks good; 4.2.
 08|23|48|53|CMP|Passing 5g's.
 08|23|48|54|CDR|4.7, 5.2, 5 - 5.5. Okay.... 5.8.
-08|23|l9|03|CMP|Locking good.
+08|23|49|03|CMP|Locking good.
 08|23|49|04|CDR|6.3.
 08|23|49|05|CMP|Okay .
 08|23|49|06|CDR|6.6.
@@ -4464,10 +4462,10 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|54|14|CC|Okay; 6 plus 28, 14.
 08|23|54|18|LMP|Okay. EJo steam PRESS pegged yet.
 08|23|54|21|CMP|How's ring i doing? It's looking good.
-08|23|51|24|CDR|Minus 8:2.
+08|23|54|24|CDR|Minus 8:2.
 08|23|54|25|CMP|It's there.
 08|23|54|28|CDR|Minus 80. Minus 6?; starting back.
-08|23|51|37|CDR|There she comes.
+08|23|54|37|CDR|There she comes.
 08|23|54|38|LMP|Steam PRESS starting up.
 08|23|54|39|CDR|There she comes.
 08|23|54|41|LMP|I got it .
@@ -4500,7 +4498,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|55|37|LMP|Get me stable at 40.
 08|23|55|38|CMP|We're passing 40,
 08|23|55|39|COR|Yes. We're stable.
-08|23|55|4q|LMP|Okay. Call 30, then.
+08|23|55|40|LMP|Okay. Call 30, then.
 08|23|55|43|CMP|All right.
 08|23|55|44|CDR|It's still steady as a rock -
 08|23|55|46|CMP|Okay. Pyro's are armed. We sire BOOST/ENTRY. Okay, about 32.
@@ -4528,7 +4526,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|56|28|LMP|Okay, we're just waiting for mains. Stand by. Cabin pressure's going up. Waiting for mains at 10K.
 08|23|56|36|CDR|A.11 righty.
 08|23|56|37|CMP|Okay, you're passing 14; 13.
-68|23|56|44|LMP|I'm watching your pressure. It's confirming. Cabin pressure's confirming.
+08|23|56|44|LMP|I'm watching your pressure. It's confirming. Cabin pressure's confirming.
 08|23|56|49|CMP|Passing 12.
 08|23|56|50|CDR|0 FLOW HI. Ignore it.
 08|23|56|52|CMP|No sweat.
@@ -4553,7 +4551,7 @@ oo|00|29|20|LMP|You can read the helium pressures - I'll - I'll get those. I jus
 08|23|57|32|CMP|Okay EMS is OFF.
 08|23|57|34|LMP|VHF A, SLMPLEX.
 08|23|57|36|CDR|Roger, Fredo.
-08|23|57|07|CMP|Okay. SURGE TANK, OFF.
+08|23|57|37|CMP|Okay. SURGE TANK, OFF.
 08|23|57|39|R|Apollo 14, Apollo 14; this is Recovery, Recover;/. Over.
 08|23|57|42|COR|I got it.
 08|23|57|43|LMP|REPRESS PACKAGE, OFF.
@@ -4637,7 +4635,7 @@ o8|23|57|49|LMP|DIRECT C valve, OPEN.
 09|00|01|32|R|... approximately one-half mile.
 09|00|01|33|CMP|Stand by for a shock; 500 feet, crew.
 09|00|01|37|CDR|
-09|00|01|33|LMP|Okay.
+09|00|01|38|LMP|Okay.
 09|00|01|39|P-1|Stand by for splash on third nark.
 09|00|01|42|CMP|Okay. I got ... 100 feet. I show a hundred feet
 09|00|01|4?|CDR|100 -
@@ -4645,7 +4643,7 @@ o8|23|57|49|LMP|DIRECT C valve, OPEN.
 09|00|01|57|P-1|MARK.
 09|00|01|58||[SPLASHDOWN]
 09|00|01|59|CMP|We did it, Ed.
-05|00|02|00|CDR|You got it.
+09|00|02|00|CDR|You got it.
 09|00|02|03|CMP|Hey, I think we made it.
 09|00|02|04|CDR|Hey, we did.
 09|00|02|05|CMP|We made it.... Good show.
