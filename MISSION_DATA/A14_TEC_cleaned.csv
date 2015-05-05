@@ -8,7 +8,7 @@
 108:26:00|CC|Yes. It's all quieted down, and your downlink's on another channel; so, no problems. So, you're clear to talk.
 108:26:08|CMP|Okay. On this - Say again.
 108:26:11|CC|Roger. You're cleared to talk.
-108:26:16|CMP|Oh, okay. Hey, that LTC camera's still acting up the same way; I tried both nonessential BUS positions, and I cycled all the connectors - could see no visi - visible damage to the pins. I did look at that slit in the shutter, and the first two times I actuated it, it stayed pretty much over 1    inch from the edge. And then, the next couple of times, it stopped about 2 inches from the edge -one each time a different edge, but out about 2    inches, maybe just a little more. It still has the clacking sound; it still wants to - intermittently fire off a frame in standby, even with the frames per minute set on zero. And I did not take the LTC photo target 16; I figured that Gordon had LMPlied that it might be a waste of film to shoot them this way; I thought maybe we could get it fixed, we could save the film. I did shoot the landing because I figured, even if it is working - that one we wouldn't have another chance at. And I fired 39 frames off of magazine B on the landing per the pad. I don't know whether it will turn out or not, because it - it clanked and fluttered the whole time.
+108:26:16|CMP|Oh, okay. Hey, that LTC camera's still acting up the same way; I tried both nonessential BUS positions, and I cycled all the connectors - could see no visi - visible damage to the pins. I did look at that slit in the shutter, and the first two times I actuated it, it stayed pretty much over 1 inch from the edge. And then, the next couple of times, it stopped about 2 inches from the edge -one each time a different edge, but out about 2 inches, maybe just a little more. It still has the clacking sound; it still wants to - intermittently fire off a frame in standby, even with the frames per minute set on zero. And I did not take the LTC photo target 16; I figured that Gordon had LMPlied that it might be a waste of film to shoot them this way; I thought maybe we could get it fixed, we could save the film. I did shoot the landing because I figured, even if it is working - that one we wouldn't have another chance at. And I fired 39 frames off of magazine B on the landing per the pad. I don't know whether it will turn out or not, because it - it clanked and fluttered the whole time.
 108:27:55|CC|Okay. We copy that, Stu.
 108:28:01|CMP|Okay.
 108:28:06|CC|One thing I might ask you there. Did you try trying the power switch ON and OFF any time when it was clicking away there.
@@ -27,21 +27,21 @@
 108:33:27|CMP|Yes, I've still got you here. Yaw 25's a little too much. Let me play with it just a second.
 108:33:50|CMP|Okay, Ron.- That looks like about the best I'm going to do. That good enough for you?
 108:33:53|CC|Okay. I think it looks pretty good down here, now. And ready to start on RP-3. Still got about 9 minutes, yet. Okay, T , 109:57:54; T^, 110:02:44; 110:04:24; 110:05:12; north 5 and - -
-108:34:37|CMP|Okay. RP-3, 109:57=54. Go ahead, Ron. Let's run them all through, and then I'll read them back.
-108:34:47|CC|Okay, good. RP-5: T , 110:08:45, 110:13=35; 110 :15 :15 ; HO: l6 :03. It's on track. Okay. The Daguerre 66. T^, 110:30:11; 110 - -
+108:34:37|CMP|Okay. RP-3, 109:57:54. Go ahead, Ron. Let's run them all through, and then I'll read them back.
+108:34:47|CC|Okay, good. RP-5: T1, 110:08:45, 110:13=35; 110 :15 :15 ; HO: 16 :03. It's on track. Okay. The Daguerre 66. T1, 110:30:11; 110 - -
 108:35:37|CMP|Hold it. Start Daguerre over again. You broke up.
-108:35:41|CC|Roger. Okay, the Daguerre 66 T^ is 110:30:11; 110:35=01; 110:36:41; 110:37:29. It?s north 22. Okay, ready for P20 - Landmark 14-l.
+108:35:41|CC|Roger. Okay, the Daguerre 66 T1 is 110:30:11; 110:35:01; 110:36:41; 110:37:29. It's north 22. Okay, ready for P20 - Landmark 14-1.
 108:36:26|CMP|Okay.
-108:36:27|CC|T is 110:46:15; 110:51:05; 110:52:45; 110:53:33. It's north 6, and, of course, it'll be 14-1 for the NOUN 89.
-108:37:02|CMP|Okay, Ron. You broke up on TCA and T^.
-108:37:08|CC|Okay. TCA on 14-l, 110:52:45; T , 110:53:33. North 6; NOUN 89 is 14-l.
-108:37:33|CMP|Okay. 14-l, 110:46:15; 110:51:05; 110:52:45; 110:53:33; north 6, 14-1.
+108:36:27|CC|T1 is 110:46:15; 110:51:05; 110:52:45; 110:53:33. It's north 6, and, of course, it'll be 14-1 for the NOUN 89.
+108:37:02|CMP|Okay, Ron. You broke up on TCA and T3.
+108:37:08|CC|Okay. TCA on 14-1, 110:52:45; T3, 110:53:33. North 6; NOUN 89 is 14-1.
+108:37:33|CMP|Okay. 14-1, 110:46:15; 110:51:05; 110:52:45; 110:53:33; north 6, 14-1.
 108:37:50|CC|Roger. Readback correct.
-108:38:02|CC|Kitty Hawk, Houston. Request POO and ACCEPT there, and we'll give you a state vector.
+108:38:02|CC|Kitty Hawk, Houston. Request P00 and ACCEPT there, and we'll give you a state vector.
 108:38:12|CMP|Okay. You have it.
 108:38:32|CC|And, Kitty Hawk; Houston. Got a map update for the REV 15 on page 13.
 108:38:40|CMP|Go ahead.
-108:38:41|CC|Roger. 180 degrees is 109:47:59*
+108:38:41|CC|Roger. 180 degrees is 109:47:59.
 108:38:50|CMP|109:47:59.
 108:38:54|CC|Roger.
 108:40:59|CC|Kitty Hawk, Houston. Computer's yours, now.
@@ -61,7 +61,7 @@
 109:39:09|CC|Yes, I think so. From what we can tell they just passed over the north crater of Triplet, and on down the stream just a little bit, but Just a little bit short of the target, I think, initially. They haven't started the - their descriptions yet, though. I haven't gotten the word yet on exactly where they are.
 109:43:41|CMP|Houston, 14 or Kitty Hawk.
 109:43:45|CC.|Roger. Go ahead, Kitty Hawk.
-109:43:51|CMP|Hey, Ron, got any word on how the low altitude track on 14-l and high altitude, compare?
+109:43:51|CMP|Hey, Ron, got any word on how the low altitude track on 14-1 and high altitude, compare?
 109:44:05|CC|Let me see if I can get that, Stu.
 109:44:11|CMP|Okay.
 109:47:59|CC|Kitty Hawk, Houston.
@@ -70,18 +70,18 @@
 109:48:37|CMP|Well, now the other marks, on the low altitude, Ron, on the - on the tape, that right?
 109:48:42|CC|Yes. That affirm. They were on the tape, and it took us awhile to get that dumped on the tape, and then - so we're just now getting the tape data.
 109:48:54|CMP|Okay.
-109:49:39|CC|And, Kitty Hawk; Houston. You've got about 30 seconds to T^ time for Daguerre 66.
+109:49:39|CC|And, Kitty Hawk; Houston. You've got about 30 seconds to T1 time for Daguerre 66.
 109:49:48|CMP|Okay. Thank you.
 109:54:01|CC|Kitty Hawk, Houston. You can start your camera.
 109:54:07|CMP|Okay.
-110:05:51|CC|Okay, Stu; Houston here. You're coming up on the T time.
+110:05:51|CC|Okay, Stu; Houston here. You're coming up on the T1 time.
 110:06:00|CMP|Okay.
 110:10:04|CC|Okay. Time to start your camera there, Stu.
 110:10:10|CMP|Ron, she's running; thank you.
 110:10:14|CC|Okay. And when you finish up there as you?re -whipping on across the landing site, those guys are so close to it, you probably can?t tell the difference from up there.
 110:14:06|CMP|Ron, I tried to change the camera and put the sextant on and take a look at - the site; Cone Crater went by just as I got the sextant up.
 110:14:20|CC|Okay. Couldn't understand what you said that time, Stu. Just for your information though, Antares is locked onto you with her radar.
-110:14:32|CMP|Okay. What I said was, that soon as I finished up on 14-l, I tried to get the sextant in, in time to look at the LM; but, by the time I got it in, Cone Crater was just passing out of the field of view.
+110:14:32|CMP|Okay. What I said was, that soon as I finished up on 14-1, I tried to get the sextant in, in time to look at the LM; but, by the time I got it in, Cone Crater was just passing out of the field of view.
 110:14:47|CC|Roger. I understand. We'll catch them one of these other REVs.
 110:14:55|CMP|Okay.
 110:20:27|CC|Kitty Hawk, Houston.
@@ -98,12 +98,12 @@
 110:22:37|CMP|Okay.
 110:28:47|CC|Kitty Hawk, Houston. I've got some map updates, and your zero phase pads for you.
 110:28:57|CMP|Okay. Go ahead.
-110:28:59|CC|Okay. On page l6, there. Map update, REV l6; 180 is 111:46:20.
+110:28:59|CC|Okay. On page 16, there. Map update, REV 16; 180 is 111:46:20.
 110:29:15|CMP|Okay, 111:46:20.
 110:29:19|CC|Okay, your zero phase pad to backward.
 110:29:30|CMP|Go ahead.
 110:29:31|CC|Roger. Roll, 197-4; pitch, 001.4; yaw, all zips; T-start, 111:59:43. And make a note there that your switch time will be 8:07- Over.
-110:30:19|CMP|Okay, 0197.4, 001.4, 000; T-start, 111:59:43; switch time at 8:07-
+110:30:19|CMP|Okay, 0197.4, 001.4, 000; T-start, 111:59:43; switch time at 8:07.
 110:30:33|CC|Roger. And on page 18 now, your zero phase pad forward.
 110:30:43|CMP|Okay.
 110:30:45|CC|Okay. Roll, 344.7; pitch, 240.1; yaw, all zips; T-start, 112:36:00. And make a note there that your new switch time is 9:58.
@@ -123,7 +123,7 @@
 110:40:49|CC|Go.
 110:40:52|CMP|Hey, Ron. Is somebody thinking up any words about our Descartes photography. Does it look like the Hycon's wiped out, or we going to do the COAS or -any decision on that?
 110:41:08|CC|We're working on it right now, Stu.
-111:06:00||BEGIN LUNAR REV l6
+111:06:00||BEGIN LUNAR REV 16
 111:27:54|CC|Kitty Hawk, Houston. You ought to be switching to your second target.
 111:28:15|CC|Kitty Hawk, Houston. You ought to be switching to your second target.
 111:36:55|CC|Kitty Hawk, Houston.
@@ -206,8 +206,8 @@
 113:27:42|CC|Okay. Good.
 113:29:34|CC|Kitty Hawk, Houston.
 113:29:35|CMP|Houston, how do you read Kitty Hawk?
-113:29:37|CC|Okay. Loud and clear there. Now, Stu, how about that POO and ACCEPT here, and we'll ship you a state vector. And whenever you're ready to copy on the LM visual pad.
-113:29:52|CMP|Okay. You have POO and ACCEPT, and I'm ready to copy.
+113:29:37|CC|Okay. Loud and clear there. Now, Stu, how about that P00 and ACCEPT here, and we'll ship you a state vector. And whenever you're ready to copy on the LM visual pad.
+113:29:52|CMP|Okay. You have P00 and ACCEPT, and I'm ready to copy.
 113:29:54|CC|Okay. T , 114:43:27; 48:27, 49:57, 50:11; north 12 miles. Okay for your latitude - it'll be a minus 03.651; longitude over 2, minus 08.734. And you can make a little note down there for the site map. The coordinates - latest ones, are CQ 0.1 and 65.4, that's Charlie Quebec 0.1.
 113:31:07|CMP|Okay. Copy 114:43:27, 48:27, 49:57, 50:11; north 12; latitude, minus 03.651; longitude over 2, minus 08.734, and, I guess, we'll call the altitude 000.76.
 113:31:34|CC|That's affirm. And, Kitty Hawk; Houston, the computer is yours. And, Stu, I'm going to - -
@@ -247,23 +247,23 @@
 114:21:37|CMP|Okay, I'm ready to go.
 114:21:39|CC|Okay, in RP-2: T^ 115:49:34; 54:24, 56:04, 56:52; north 08.
 114:22:16|CMP|Okay, I got that.
-114:22:18|CC|Okay; and the 12-1: T^ 115:59:16; T2 is ll6:04:06, 05:46, 06:34; north 32. And let's go on over to the map update next.
+114:22:18|CC|Okay; and the 12-1: T^ 115:59:16; T2 is l16:04:06, 05:46, 06:34; north 32. And let's go on over to the map update next.
 114:22:58|CMP|Okay.
-114:23:00|CC|Okay. LOS and AOS are changes. I'll read them all. LOS, 115:18:05; 115:43:01; ll6:04:23. Okay, let's switch to page 23 and Dollond - -
+114:23:00|CC|Okay. LOS and AOS are changes. I'll read them all. LOS, 115:18:05; 115:43:01; l16:04:23. Okay, let's switch to page 23 and Dollond - -
 114:23:28|CMP|... 115 - Okay. I'm ready for Dollond.
 114:23:34|CC|Okay. T : 116:30:45; 35:35, 37:15, 38:03; north 15. And push to the next page for FM-1.
 114:24:12|CMP|Go ahead.
-114:24:14|CC|T , ll6:41:46; 46:36, 48:l6, 49:04; north 23. Over.
+114:24:14|CC|T , l16:41:46; 46:36, 48:16, 49:04; north 23. Over.
 114:24:42|CMP|Okay. I'll go back to RP-2.
 114:24:47|CC|Okay. Go.
-114:24:55|CMP|Okay. 115:49:34; 54:24, 56:04, 56:52; north 08. 12-1: 115:59:16; ll6:04:06, 05:46, 06:34; north 32. Map update REV 18: 115:18:05; 115:43:01; ll6:04:23. Dollond E: 116:30:45, 35:35, 37:15, 38:03; north 15. Are you still with me?
+114:24:55|CMP|Okay. 115:49:34; 54:24, 56:04, 56:52; north 08. 12-1: 115:59:16; l16:04:06, 05:46, 06:34; north 32. Map update REV 18: 115:18:05; 115:43:01; l16:04:23. Dollond E: 116:30:45, 35:35, 37:15, 38:03; north 15. Are you still with me?
 114:24:58|CC|Okay. Your readback is correct, so far.
 114:25:17|CMP|Okay. Are you with me, Ron?
 114:25:20|CC|I missed your readback on FM-1, Stu.
-114:25:27|CMP|Okay. FM-1: ll6:41:46, 46:36, 48:l6, 49:04; north 23.
+114:25:27|CMP|Okay. FM-1: l16:41:46, 46:36, 48:16, 49:04; north 23.
 114:25:40|CC|Okay. Your readback is correct. And I've got a preliminary TEI 34 pad for your update book.
 114:27:04|CMP|Okay, I'm ready to copy.
-114:27:06|CC|Okay. This is preliminary. TEI-34, SPS/G&N; 34930; minus 0.71, minus 0.02; 149:15:34.58; plus 3018.2, plus 1649.1, minus 0283.4; l8l, 108, 029; NA; plus 0019.0. Okay. Your DELTA-V total, 3451.0, 2:25, 3426.9. Sextant star 11, 125.3, 22.7; NA on the bore site. Skip down to NOUN 6l, minus 27.03, minus 171.50; II60.8, 36251; 216:23:32. Okay. Your GDC aline, Sirius and Rigel, 130, 129, 018. Ullage, four jets, 12 seconds. Okay. Your notes, number 1, the longitude at T. equals plus ^ 6 178.69. Note 2, assumed plane change and lift-off REFSMMAT. Note 3, with TEI REFSMMAT, roll, 180; pitch, 0; yaw, 0. And ready for readback.
+114:27:06|CC|Okay. This is preliminary. TEI-34, SPS/G&N; 34930; minus 0.71, minus 0.02; 149:15:34.58; plus 3018.2, plus 1649.1, minus 0283.4; 181, 108, 029; NA; plus 0019.0. Okay. Your DELTA-V total, 3451.0, 2:25, 3426.9. Sextant star 11, 125.3, 22.7; NA on the bore site. Skip down to NOUN 61, minus 27.03, minus 171.50; II60.8, 36251; 216:23:32. Okay. Your GDC aline, Sirius and Rigel, 130, 129, 018. Ullage, four jets, 12 seconds. Okay. Your notes, number 1, the longitude at Tig equals plus 178.69. Note 2, assumed plane change and lift-off REFSMMAT. Note 3, with TEI REFSMMAT, roll, 180; pitch, 0; yaw, 0. And ready for readback.
 114:30:48|CMP|Okay. Before I start, give me DELTA-V total again, please ...
 114:30:55|CC|Kitty Hawk, Houston. I can't read you now. Maybe it'll get better here in the next 7 minutes before all of that. But too much background noise.
 114:31:10|CMP|Okay. Could you read me DELTA-V total, please?
@@ -295,10 +295,10 @@
 116:17:09|CMP|All right, I'll be right with you.
 116:17:11|CC|Okay.
 116:17:45|CMP|Okay, Ron, I'm ready to copy.
-116:17:48|CC|Okay, mighty fine. Your weight, 35752; minus 0.95, plus 0.17; 118:09:35-17; NOUN 8l, minus 0012.9, plus 0370.7, minus 0005-5; 180, 354, 002; NOUN 44, 0062.1, plus 0057.2; 0371.0, 0:l8, 0356.6; sextant Star, 27, 030.5, 07.6; boresight star, 043, up 13.2, left 27; GDC aline, Sirius and Rigel, 049, 287, 331; your ullage, four Jet, 11 seconds. Read back.
-116:20:05|CMP|Okay, Ron. Plane change, 35752; minus 0.95, plus 0.17; 118:09:35*17; minus 0012.9, plus 0370.7, minus 0005-5; 180, 354, 002; 0062.1, plus 0057.2; 0371.0, 0:18, 0356.6; 27, 030.5, 07.6; 043, up 132, left 27; Sirius and Rigel, 049, 287, 331; four Jet 11 seconds.
-116:21:12|CC|Okay, read back your DELTA-again.
-116:21:20|CMP|. DELTA-Vy, plus 0370-7-
+116:17:48|CC|Okay, mighty fine. Your weight, 35752; minus 0.95, plus 0.17; 118:09:35-17; NOUN 81, minus 0012.9, plus 0370.7, minus 0005-5; 180, 354, 002; NOUN 44, 0062.1, plus 0057.2; 0371.0, 0:l8, 0356.6; sextant Star, 27, 030.5, 07.6; boresight star, 043, up 13.2, left 27; GDC aline, Sirius and Rigel, 049, 287, 331; your ullage, four Jet, 11 seconds. Read back.
+116:20:05|CMP|Okay, Ron. Plane change, 35752; minus 0.95, plus 0.17; 118:09:35.17; minus 0012.9, plus 0370.7, minus 0005-5; 180, 354, 002; 0062.1, plus 0057.2; 0371.0, 0:18, 0356.6; 27, 030.5, 07.6; 043, up 132, left 27; Sirius and Rigel, 049, 287, 331; four Jet 11 seconds.
+116:21:12|CC|Okay, read back your DELTA-Vy again.
+116:21:20|CMP|. DELTA-Vy, plus 0370.7.
 116:21:25|CC|Okay, that was correct. Okay, whip back to page 25, on your north ecliptic pole attitudes.
 116:21:44|CMP þ|Okay, I got it.
 116:21:45|CC|Okay, it'll be at roll 270, 009, and 355- And your 180 position for your map update 117:41:22.
@@ -338,28 +338,28 @@
 117:29:37|CMP|IGNITION. And she's steady as a rock.
 117:29:46|CC|Beautiful.
 117:29:54|CMP|And SHUTDOWN.
-117:30:52|CC|Okay, Kitty Hawk; Houston. No trim on this burn. Arid you can whip into POO, and we'll start sending seme uplink to you.
+117:30:52|CC|Okay, Kitty Hawk; Houston. No trim on this burn. Arid you can whip into P00, and we'll start sending seme uplink to you.
 117:31:03|CMP|Okay. Just a second ... Do you need anything else The Delta is minus 12.3, and I guess your monitors are wrong. I hate to break up the discussion here, but I want to be right with you.
 117:31:21|CC|Roger. Delta-V^, was minus 12.3.
-117:31:57|CMP|Okay. You wanted POO and ACCEPT. Is that right, Ron?
-117:32:09|CC|Okay, Kitty Hawk; Houston. Do you have POO and ACCEPT?
-117:32:18|CMP|You've got POO and ACCEPT now.
+117:31:57|CMP|Okay. You wanted P00 and ACCEPT. Is that right, Ron?
+117:32:09|CC|Okay, Kitty Hawk; Houston. Do you have P00 and ACCEPT?
+117:32:18|CMP|You've got P00 and ACCEPT now.
 117:32:21|CC|Roger.
 117:32:28|CC|And, when you get things pretty well squared away there, I've got some 00 time and a photo pad and then a map update for you.
 117:32:46|CMP|Okay. I'm ready to copy.
-117:32:48|CC|Okay. Your REFSMMAT 00 time, 142:25:30.00. Okay, your earthshine photo pad is on page 28; T-start is 118:45:37-
+117:32:48|CC|Okay. Your REFSMMAT 00 time, 142:25:30.00. Okay, your earthshine photo pad is on page 28; T-start is 118:45:37.
 117:33:37|CMP|Okay, Ron. I copy REFSMMAT 00 time, 142:25:30.00; earthshine photo pad T-start, 118:45:37-
 117:33:50|CC|Okay. And then the next page - on page 29, your map update. For 180 - for 180, it's 119:39:59-And while we've got a little time here, do you happen to have the percent magazine for the P24 pass and also from the galactic survey?
 117:34:29|CMP|Okay. ... right after ...
 117:34:41|CC|Stu, wait a minute. I can't read you there. You might check - try tweaking on the OMNI - or tweaking up the HIGH GAIN, please.
 117:34:58|CMP|How do you read, now?
-117:35:01|CC|Still got a lot of - Hey, there it?s quieted down-It should be good now.
+117:35:01|CC|Still got a lot of - Hey, there It's quieted down-It should be good now.
 117:35:10|CMP|Okay. Let's start with map update.
 117:35:14|CC|Okay, go ahead.
 117:35:19|CMP|I didn't get it.
 117:35:21|CC|Oh, okay. Map update, REV 20 - -
 117:35:22|CMP|Went out on me.
-117:35:25|CC|- - is l8 - for the 180, 119:39:59-
+117:35:25|CC|- - is l8 - for the 180, 119:39:59.
 117:35:37|CMP|Okay; 119:39:59-
 117:35:40|CC|And the computer's yours.
 117:35:53|CC|And, Stu, if you got it there, we need the percent of the magazine remaining from your P24 passes and also from the galactic survey.
@@ -401,7 +401,7 @@
 119:27:29|CC|Okay. Still hanging our - your readback of the TEI-34 preliminary pad. Also, would like the magazine percentage and frame numbers at the end of earthside. That should be listed under Solo Book at 119:09. And the P52 data, and I'll take any of that in any order that you come to it. Over.
 119:27:58|CMP|Okay. Let's start with the TEI-34 - -
 119:28:04|CC|Okay - -
-119:28:05|CMP|334930; minus 0.711 minus 0.02; 149:15:34.58; plus 3018.2, plus 1649,1, minus 0283.4; 181, 108, 029; and NA; DELTA-V total, 3451.0; 2:25; 3426.9; 11, 125.3, 22.7; boresight star NA; NOUN 6l, minus 27.03, minus 171.50; ll60.8, 36251; 216:23:32; Sirius and Rigel, 130, 129, 0l8; four jet, 12 seconds; longitude and T. , IS plus 178:69 assumes plane change burn and lift-off REFSMMAT; with TEI REFSMMAT attitude 180:00.
+119:28:05|CMP|334930; minus 0.711 minus 0.02; 149:15:34.58; plus 3018.2, plus 1649,1, minus 0283.4; 181, 108, 029; and NA; DELTA-V total, 3451.0; 2:25; 3426.9; 11, 125.3, 22.7; boresight star NA; NOUN 61, minus 27.03, minus 171.50; l160.8, 36251; 216:23:32; Sirius and Rigel, 130, 129, 0l8; four jet, 12 seconds; longitude and T. , IS plus 178:69 assumes plane change burn and lift-off REFSMMAT; with TEI REFSMMAT attitude 180:00.
 119:29:32|CC|Okay, Stu. Readback's good, except for one omission on NOUN 44. Your height to perigee is a plus 0019.0. Over.
 119:29:48|CMP|Oh, very good. Hp, plus 0019.0.
 119:29:52|CC|Okay. Readback's good.
@@ -423,7 +423,7 @@
 119:39:01|CC|Roger, Stu. Stand by on the read-out; I'm working with the LM here on the other channel.
 119:39:11|CMP|Okay.
 119:39:22|CC|Okay, Stu; ready to copy the onboard read-outs. I was tied up with Ed, there.
-119:39:32|CMP|Okay. BATTERY C is 37-0; PYR0 BATTERY A, 37-2; PYR0 BATTERY B, 37.2; RCS: A, 80; B, 71; C, 74; D, 73-
+119:39:32|CMP|Okay. BATTERY C is 37-0; PYR0 BATTERY A, 37-2; PYR0 BATTERY B, 37.2; RCS: A, 80; B, 71; C, 74; D, 73.
 119:39:53|CC|Okay, Stu. Copied all that.
 119:44:06|CC|Kitty Hawk, Houston.
 119:44:11|CMP|Go ahead, Houston.
@@ -445,8 +445,8 @@
 119:52:15|CC|I'll - I'll check on that one; I'm not sure.
 119:52:34|CC|Okay, Stu. I understand that they're satisfied with what you saw, and they think that - that looks normal, which is one of the things that makes us think that the camera is probably operating normally. And if it turns out that the shutter is oscillating, what you're going to see is just a blur; but, again, you'll see a - the - the blur will appear to oscillate; and I think you'll be able to detect that the shutter is going from side to side; and it just looks like a big flash. And I - if you'll put the - put a flashlight in the lens with you as you look in there, I think you'll be able to see it; and you may even see one of the seams on the Mylar, when it comes to a stop. So, with that description of what it is you're going to be looking at, I'll read you the detailed procedures, if. you're ready.
 119:53:34|CMP|Okay. Go ahead.
-119:53:38|CC|Okay. We'll use the magazine W, because we're not going to use much film. We'd like to finish that one off. Go ahead and put the camera on the couch, or wherever it's convenient for you, with the lens opening visible to you. And you might want to tie the camera down, because we're going to operate it. Go ahead and hook up the camera according to the instruction decal; do everything in the normal orders. Like to have you make the following settings: for the MODE, we'd like to use AUTO; the shutter should be on l/50th of a second; the RANGE, 99-9; and the FRAME RATE at 60. Once you have the control box set up, turn the power to ON; and we'd like to have you observe the shutter operation by looking through the lens and use the penlight. And go ahead and run this thing, say 10 cycles. Like to have you also verify that the magazine spools are rotating and that the counter is counting for each actuation that you observe.
-119:54:50|CMP|Yes, I can already verify that. The counter counts, and the spools rotate.
+119:53:38|CC|Okay. We'll use the magazine W, because we're not going to use much film. We'd like to finish that one off. Go ahead and put the camera on the couch, or wherever it's convenient for you, with the lens opening visible to you. And you might want to tie the camera down, because we're going to operate it. Go ahead and hook up the camera according to the instruction decal; do everything in the normal orders. Like to have you make the following settings: for the MODE, we'd like to use AUTO; the shutter should be on l/50th of a second; the RANGE, 99-9; and the FRAME RATE at 60. Once you have the control box set up, turn the power to ON; and we'd like to have you observe the shutter operation by looking through the lens and use the penlight. And go ahead and run this thing, say 10 cycles. Like to have you also verify that the magazine sP00ls are rotating and that the counter is counting for each actuation that you observe.
+119:54:50|CMP|Yes, I can already verify that. The counter counts, and the sP00ls rotate.
 119:54:55|CC|Okay. Has there been any instance when the counter didn't count when it was making its funny noises and so forth?
 119:55:08|CMP|No. Not - I don't - don't believe so at all.
 119:55:12|CC|Okay, that's encouraging. I think the voting down here is that you probably have a functioning camera. What we'd like for you to do is - do this little test at your convenience, and let us know what you see. If it works out that this is one of these times where the test is performed, and the camera sounds like it's operating okay, go ahead and run the test; but don't sit there and run the camera trying to make it duplicate the sounds you've heard before. And what we're going to do is assume that if you see a shutter move, and it sounds right - we're going to assume that it's okay. Now - then, later in the flight, if this thing starts to act up again, we'd like to have you go ahead and finish that pass using the film; assume again that it's working properly; but, at the first convenient time afterwards, perform this test again. And the time, of course, that we're most interested in is performing this test when the noises and so forth are coming out.
@@ -499,7 +499,7 @@
 129:13:39|CMP|Hello, Houston; Kitty Hawk.
 129:14:01|CC|Hello, Stu. Good morning. You're loud and clear.
 129:14:09|CMP|iUfjer. Same litre; must have been a good, comm attitude.
-129:14:14|CC|Roger. I guess we?re coming up in about roughly i-5 minutes starting this bistatic radar; and I have some pads to get up plus a little discuss'on; so, if you'll grab the Solo Book, I'll give you a couple of them right i,uw.
+129:14:14|CC|Roger. I guess we?re coming up in about roughly i-5 minutes starting this bistatic radar; and I have some pads to get up plus a little discuss'on; so, if you'll grab the Solo Book, I'll give you a couple of them right now.
 129:14:19|CMP|Okay. I've got it.
 129:14:25|CC|Okay. Got a inu p update, REV 26, for page 33.
 129:14:35|CMP|Go ahead.
@@ -507,10 +507,10 @@
 129:15:15|CMP|Okay. 131:05:17, 131:30:08, 131:51:34.
 129:15:24|CC|Okay. You got that one okay. Same page, the vertical stereo photo pad: T-start, 131:44:21; T-stop, 132:32:42. Over.
 129:15:49|CMP|Roger. 131:44:21, 132:33:42.
-129:15:52|CC|You gut that one okay. And the page before, your consumables update. Pur a GET of 129:55; RCS total, 64 percent; quad A, 67; Baker, 6l; Charlie, 66; Delta, 63. tank 1, 56; tank 2, 56; 0^ tank 1, 79; tank 2, 78; tank 3, 26 percent. Over.
-129:16:43|CMP|Okay. 129:55; RCS total, 64; quads, 64, 67, 6l, 63; H2, 56, 56; 02, 79, 78, 26.
+129:15:52|CC|You gut that one okay. And the page before, your consumables update. Pur a GET of 129:55; RCS total, 64 percent; quad A, 67; Baker, 61; Charlie, 66; Delta, 63. tank 1, 56; tank 2, 56; 0^ tank 1, 79; tank 2, 78; tank 3, 26 percent. Over.
+129:16:43|CMP|Okay. 129:55; RCS total, 64; quads, 64, 67, 61, 63; H2, 56, 56; 02, 79, 78, 26.
 129:17:03|CC|Roger. That's correct, Stu.
-129:17:25|CC|Stu, this is Houston. Would you give us POO and ACCEPT, and we'll give you a state vector.
+129:17:25|CC|Stu, this is Houston. Would you give us P00 and ACCEPT, and we'll give you a state vector.
 129:17:32|CMP|Okay. You have it.
 129:18:20|CC|Stu, this is Houston. Do you have time for a little conversation?
 129:18:23|CMP|Y OS , go ;.! iifl lJ. ,
@@ -559,7 +559,7 @@
 131:15:01|CC|Okay, Stu, When the shutter does oscillate on the thing, does it kind of go back and forth or does it seem like it keeps going around? In the same -you know, does it seem like it keeps going around in the same direction or does it oscillate back and forth?
 131:15:27|CMP|Well, I guess I might have to look at it again to be ver - be real certain but I - yes, it goes back and forth. I might check that in a little bit if I get the chance - or when I get the chance, but it looked like it was just sitting there going back and forth on the thing.
 131:15:54|CC|Okay, Stu. Stand by 1.
-131:16:34|CC|Okay, Stu. What we're thinking is that - you know the shutter kind of goes back and forth anyhow; and if it goes back and forth kind of at the intervalometer setting, and the spools rotate, you know, to indicate that the film is in fact moving, it looks like it may be operating in - in the AUTO mood - in the AUTO mode okay and we could probably be able to get some pictures. Now if that's a completely - you know, if the shutter kind of oscillates, not with respect to the intervalometer setting; it may not be working correctly, and I guess I'm still not quite clear in my own mind that if the shutter's oscillating back and forth at the rate of the intervalometer setting.
+131:16:34|CC|Okay, Stu. What we're thinking is that - you know the shutter kind of goes back and forth anyhow; and if it goes back and forth kind of at the intervalometer setting, and the sP00ls rotate, you know, to indicate that the film is in fact moving, it looks like it may be operating in - in the AUTO mood - in the AUTO mode okay and we could probably be able to get some pictures. Now if that's a completely - you know, if the shutter kind of oscillates, not with respect to the intervalometer setting; it may not be working correctly, and I guess I'm still not quite clear in my own mind that if the shutter's oscillating back and forth at the rate of the intervalometer setting.
 131:17:40|CMP|That's a negative on that one, Ron. It's a fast oscillation, like the check that Ken wanted me to make was the intervalometer set on 60 and - and so every, every second we - the intervalometer triggers and PMC operates, but the shutter in between, is just banging back and forth.
 131:18:11|CC|Okay, I understand now.
 131:18:18|CMP|Anu. - and the osciallation on the shutter appears to stop at the time the intervalometer triggers.
@@ -585,13 +585,13 @@
 131:34:41|CMP|Okay. Stand by.
 131:35:09|CMP|Okay to read the ... right now ... take ...
 131:35:14|CC|Stand by 1, Stu. I just barely got you there.
-131:35:28|CC|Okay. Kitty Hawk, try the HIGH GAIN, the PITCH, minus 50; YAW, l8l.
+131:35:28|CC|Okay. Kitty Hawk, try the HIGH GAIN, the PITCH, minus 50; YAW, 181.
 131:36:11|CMP|Okay. How do you read now?
 131:36:12|CC|Okay. You're real weak, Stu. How do you read me?
 131:36:20|CMP|You're loud and clear. Coming in ...
 131:36:23|CC|Okay. I could just barely hear you, but if you're reading me good, why don't you go ahead and let me know when you're ready to copy some 50-millimeter procedures?
 131:36:34|CMP|Okay. I'm ready to copy.
-131:36:38|CC|Okay. Step 1, configure camera CM4/EL/500/BW-PCM cable; the l6-millimeter control cable, (f/ll) l/250th, infinity; 42 frames, 5-second intervals; magazine Papa. Step 2, set COAS in left-hand rendezvous window; adjust for plus 10 degrees. VERB - Step 3, VERB 49, manuever to high-resolution photo attitude. And just a note: time to start the maneuver and the maneuver attitude will be updated. Step 4, change your DAP R^ to 11103 and, Stu, we talked about that - whether to use a 2 degree or half degree per second, there. I personally prefer the - you know the, 2 end the R . And, then if you don't quite hack it, you know, ... the load direct. Okay. Step 5 - -
+131:36:38|CC|Okay. Step 1, configure camera CM4/EL/500/BW-PCM cable; the 16-millimeter control cable, (f/ll) l/250th, infinity; 42 frames, 5-second intervals; magazine Papa. Step 2, set COAS in left-hand rendezvous window; adjust for plus 10 degrees. VERB - Step 3, VERB 49, manuever to high-resolution photo attitude. And just a note: time to start the maneuver and the maneuver attitude will be updated. Step 4, change your DAP R^ to 11103 and, Stu, we talked about that - whether to use a 2 degree or half degree per second, there. I personally prefer the - you know the, 2 end the R . And, then if you don't quite hack it, you know, ... the load direct. Okay. Step 5 - -
 131:38:55|CMP|? ? þ
 131:38:57|CC|I missed that, say again.
 131:38:59|CMP|You know I never got a chance to try that ..., but I'll, if I get a chance ...
@@ -605,7 +605,7 @@
 131:42:21|CC|Okay, you're really weak, Stu. I don't know, if you - if you can read the ACC meter on the high gain, there. Maybe I can read you, if you can keep the high gain on.
 131:43:35|CC|Okay, Kitty Hawk; Houston, let me try one more time here. If you're reading me okay, I?ve got some more flight-plan updates for you here.
 131:43:50|CMP|Okay, I'm reading you loud and clear, Ron.
-131:43:52|CC|Okay, Stu, you're still down, but let's do the flight-plan update. At 132:4o, change your pitch attitude on the north galactic pole there, change the pitch attitude to 280; HIGH GAIN angles, PITCH, minus 8l; YAW 210.
+131:43:52|CC|Okay, Stu, you're still down, but let's do the flight-plan update. At 132:4o, change your pitch attitude on the north galactic pole there, change the pitch attitude to 280; HIGH GAIN angles, PITCH, minus 81; YAW 210.
 131:44:35|CC|Okay, skip on over in your solo book there to time at 133:31.
 131:44:57|CC|Delete the VERB 49 maneuver to the LTC attitude. And delete, at 133:40, the proceg - PRO to start the pitch rate. And delete all reference to LTC photography, target 2/8. Okay, at 134:00, add -You still with me, Stu?
 131:46:01|CMP|No, I didn't get all of it, you dropped out for a while. I picked back up here at 133:40.
@@ -636,12 +636,12 @@
 132:10:51|CMP|I did not get that last bit about the times. Give me those again.
 132:10:55|CC|Okay. At 134:20 in the flight plan there, T-start is 134:20 - 134:20:19. Okay. And, now we can go ahead and review those 500-millimeter procedures.
 132:11:16|CMP|Okay.
-132:11:32|CMP|Okay. I'm going to configure the camera CM4, EL, 500, black and white, PCM cable, and l6-millimeter control cable, f/II, l/250th, infinity. I'm going to shoot 42 frames with me manually flicking them off every 5 seconds. I'll use magazine P, P as in Papa. And, I'll use the C0AS, set on 10 degrees, and do the VERB 49 maneuver. Probably won't change the DAP, last tracking went real well at MINIMUM LMPULSE.
+132:11:32|CMP|Okay. I'm going to configure the camera CM4, EL, 500, black and white, PCM cable, and 16-millimeter control cable, f/II, l/250th, infinity. I'm going to shoot 42 frames with me manually flicking them off every 5 seconds. I'll use magazine P, P as in Papa. And, I'll use the C0AS, set on 10 degrees, and do the VERB 49 maneuver. Probably won't change the DAP, last tracking went real well at MINIMUM LMPULSE.
 132:12:24|CC|Okay, we'll - look, while he's talking about that tracking - -
 132:12:31|CMP|I'll zero the - I'll zero the event timer. I'll configure the DSE, HIGH BIT RATE, RECORD, FORWARD, COMMAND RESET. I guess I'll do that just prior to T-start. At T-start, I'll turn the camera on, start the event timer, and at T-start plus a minute, I should be in an ORDEAL pitch of 305, and I'll start the C0AS track of Descartes; and at T-start plus 328, should be around an ORDEAL pitch at 215. I'll terminate the track, turn the camera off, got to LOW BIT RATE, record the frame number.
-132:13:12|CC|Okay. Sounds real good there, Stu. Looks like you got it under control. I don't know, have you ever used that' l6-millimeter camera instead of the intervalometer, you know, on the PCM cable?
+132:13:12|CC|Okay. Sounds real good there, Stu. Looks like you got it under control. I don't know, have you ever used that' 16-millimeter camera instead of the intervalometer, you know, on the PCM cable?
 132:13:26|CMP|No, I sure haven't.
-132:13:28|CC|Okay. I've checked that out real good; and, every time you punch it, just like on a l6-millimeter, you take a picture, you know. And it'll reach all the way over to your left hand there, so you got that in your left hand and flipping away with your right hand on the MINIMUM LMPULSE, you know.
+132:13:28|CC|Okay. I've checked that out real good; and, every time you punch it, just like on a 16-millimeter, you take a picture, you know. And it'll reach all the way over to your left hand there, so you got that in your left hand and flipping away with your right hand on the MINIMUM LMPULSE, you know.
 132:13:47|CMP|Okay. That shouldn?t be any problem. That COAS track and MINIMUM LMPULSE is extremely smooth., Ron. It just hangs right there.
 132:13:56|CC|Beautiful. Okay, the only difference as you notice; the rest of them are going to be at a zero roll so you'll be pitching the opposite direction on the thing as you did then, you did for the one for the - the last pass there.
 132:14:12|CMP|Okay.
@@ -695,7 +695,7 @@
 133:15:18|CMP|Roger, Ron. That - that's the highest signal strength I've seen so far.
 133:15:23|CC|Man, that's the best I've heard you. Sounds real good.
 133:15:29|CC|Hey, Stu, I guess the one thing I really didn't get out of you in talking about the Hycon camera, do you have any confidence - confidence at all in that thing?
-133:15:48|CMP|Well, I guess I really don't know the inner workings well enough to - to say that, Ron. The racket sure does sound bad; but, when you see the - see the. frame counter going, you figure it?s doing something. I don't really know. I didn't get a chance to look at it. I thought, as soon as we finish up here, I'll - I've got it out; and, we get a chance, why, we'll - we'll run through an exercise here with - with you on the loop and maybe we can then arrive at some conclusion.
+133:15:48|CMP|Well, I guess I really don't know the inner workings well enough to - to say that, Ron. The racket sure does sound bad; but, when you see the - see the. frame counter going, you figure It's doing something. I don't really know. I didn't get a chance to look at it. I thought, as soon as we finish up here, I'll - I've got it out; and, we get a chance, why, we'll - we'll run through an exercise here with - with you on the loop and maybe we can then arrive at some conclusion.
 133:16:26|CC|Okay.
 133:16:48|CC|Just for your information, A1 and Ed are just about on the edge of Cone Crater now.
 133:16:59|CMP|Oh, great. How was the climb?
@@ -723,7 +723,7 @@
 133:47:45|CC|Okay.
 133:55:01|CMP|Okay, Houston. Kitty Hawk.
 133:55:04|CC|Roger. Go, Stu.
-133:55:07|CMP|Okay. As far as whether or not the shutter is oscillating or going in one direction, I can't tell. We did run out of film on this magazine W and that made it a little easier to see in there. With this shutter sticking like this, you're going to expose any film underneath it because, you know, it's moving at fast enough rate that I can see through and see the platen now. I can see the holes in the platen with the shutter oscillating. It goes fast. I'd say it's a couple of three times a second oscillation. Or at least that's the noise level, now. I'm not sure what the shutter's doing it's moving so fast. In AUTO and in single frame, when you push the button, the shutter does stop for just an instant, and just randomly, you will see the slit. Now it's not always there. Sometimes it's there, sometimes it isn't, sometimes it?s a different width on the slit. Now, why don't we start there, and then I'll entertain the questions.
+133:55:07|CMP|Okay. As far as whether or not the shutter is oscillating or going in one direction, I can't tell. We did run out of film on this magazine W and that made it a little easier to see in there. With this shutter sticking like this, you're going to expose any film underneath it because, you know, it's moving at fast enough rate that I can see through and see the platen now. I can see the holes in the platen with the shutter oscillating. It goes fast. I'd say it's a couple of three times a second oscillation. Or at least that's the noise level, now. I'm not sure what the shutter's doing it's moving so fast. In AUTO and in single frame, when you push the button, the shutter does stop for just an instant, and just randomly, you will see the slit. Now it's not always there. Sometimes it's there, sometimes it isn't, sometimes It's a different width on the slit. Now, why don't we start there, and then I'll entertain the questions.
 133:56:37|CC|Okay, Stu. That sounds like that's a good explanation of what's happening. The shutter is oscillating back and forth and it does expose the film every time it oscillates, it looks like. And even in single frame, it stops - -
 133:56:52|CMP|Yes. Well, I don't know whether - -
 133:56:55|CC|Yes. Go ahead, Stu.
@@ -766,7 +766,7 @@
 134:07:23|CC|Right.
 134:07:24|CMP|That did show up when I first started. So, see right up toward the top of the page, two craters right together? I meant move up about a - oh a quarter of an inch from the center. Can you see a little doublet there?
 134:07:41|CC|Okay. I think I'm with you. Yes.
-134:07:46|CMP|Okay. That was my aim point on that pass. Those -those two showed up better at first, before this one down here. So I picked up on them. And you know that's essentially between the two bright ones and about 3/l6ths of an inch up from the center of the C0AS as shown on it.
+134:07:46|CMP|Okay. That was my aim point on that pass. Those -those two showed up better at first, before this one down here. So I picked up on them. And you know that's essentially between the two bright ones and about 3/16ths of an inch up from the center of the C0AS as shown on it.
 134:08:12|CC|Okay. I think - I'm not sure which way is up. Is it the bottom of the page or the top of the page now that you're talking about? I - I got a little doublet kind of - -
 134:08:22|CMP|Okay.
 134:08:23|CC|- - toward - toward the bottom of the page.
@@ -876,8 +876,8 @@
 135:55:39|CC|Kitty Hawk, Houston. Those angles were PITCH at minus 50, the YAW at plus 50.
 135:56:39|CMP|Houston, you read Kitty Hawk?
 135:56:41|CC|Okay, Kitty Hawk; Houston. Man, that's a lot better on the ears, now.
-135:56:52|CC|Okay; you want to whip it - whip into POO and ACCEPT, and we'll ship you up a state vector and also a clock SYNC.
-135:57:06|CMP|Okay on POO and ACCEPT.
+135:56:52|CC|Okay; you want to whip it - whip into P00 and ACCEPT, and we'll ship you up a state vector and also a clock SYNC.
+135:57:06|CMP|Okay on P00 and ACCEPT.
 135:57:10|CC|Okay. And you about ready to start copying pads on page 40 there for RP-4?
 135:57:21|CMP|I'm ready; go ahead.
 135:57:22|CC|Okay. Tx, 137:38:43; 43:33; 45:13; 46:01. It's south 02. Ansgarius N, 137:51:34; 56:24; 58:04, 58:52, south 06. Okay, for DE-2, T^, 138:11:23; 16:13; 17=53; l8:41; north 08. Okay, for Encke, E, T , 138:31:14; 36:04; 37:44; 38:32; south 22. And read back.
@@ -968,7 +968,7 @@
 138:04:59|CMP|Okay.
 138:05:02|CC|And - -
 138:05:03|CMP|Looks like you have a good lockup here.
-138:05:05|CC|Yes, it?s working fine. And we?re standing by for your magazine percentage and also your P52.
+138:05:05|CC|Yes, It's working fine. And we?re standing by for your magazine percentage and also your P52.
 138:05:14|CMP|Okay. The magazine percentage is 35*
 138:05:19|CC|Roger; 35.
 138:05:21|CMP|And, let me find my P52.
@@ -1016,7 +1016,7 @@
 138:16:23|CC|Yes, that's right. And the target point for that one is, as we mentioned before, you know about one and a third of those marks down the COAS, east of the depicted COAS position there.
 138:16:45|CMP|Okay. I'll try to pick up that little Doublet there.
 138:16:49|CC|Okay.
-138:17:54|CC|Okay, Kitty Hawk. We got about 1 minute to LOS here. A1 and Ed are completing a debriefing from their EVA. And I think they had - got about l60 pounds of stuff - 167 pounds of stuff coming back up to you.
+138:17:54|CC|Okay, Kitty Hawk. We got about 1 minute to LOS here. A1 and Ed are completing a debriefing from their EVA. And I think they had - got about 160 pounds of stuff - 167 pounds of stuff coming back up to you.
 138:18:18|CMP|Jolly good.
 138:18:20|CC|Roger.
 138:18:23|CMP|160 pounds of rocks and a probe, huh?
@@ -1046,19 +1046,19 @@
 139:46:55|CMP|How about that? Okay. The tracking went pretty good. It's getting at - this Sun angle at the - I didn't pick up at Doublet. However, I knew where it should be, and I got another little one in that area. So I think the track is pretty close to the - the area you wanted. The track - the tracking went all right. However, in the heat of the battle there, I did not get the tape recorder going, so we didn't get the HIGH BIT RATE on that track. And the frame number is 126.
 139:47:42|CC|Okay. We copy that, Stu. And don't leave the dark slide out of that magazine when you take it off. Okay? It's a pretty LMPortant magazine.
 139:47:55|CMP|Okay.
-139:53:50|CC|Kitty Hawk, Houston, request POO and ACCEPT there, and we'll ship you a state vector or two.
-139:53:52|CMP|Roger. You have it, POO and ACCEPT.
+139:53:50|CC|Kitty Hawk, Houston, request P00 and ACCEPT there, and we'll ship you a state vector or two.
+139:53:52|CMP|Roger. You have it, P00 and ACCEPT.
 139:53:54|CC|Okay. And also, Stu, I?ve got your consumables update and your P27 pad here, if you're ready to copy. Start with consumables first .
 139:54:09|CMP|Okay. I?m ready. Go ahead.
-139:54:11|CC|Okay. Consumables GET 140:40; total 60 percent. Okay, now I'll read the quads off the problem Charlie. 6l, 60, 60, 60; H ; 52, 52; 0o: 77, 76, 25. 2
-139:54:50|CMP|Okay. 140:40; 60 - 6l, 60, 60, 60; 52, 52; 77, 76, 25.
+139:54:11|CC|Okay. Consumables GET 140:40; total 60 percent. Okay, now I'll read the quads off the problem Charlie. 61, 60, 60, 60; H ; 52, 52; 0o: 77, 76, 25. 2
+139:54:50|CMP|Okay. 140:40; 60 - 61, 60, 60, 60; 52, 52; 77, 76, 25.
 139:55:04|CC|Okay, that's correct. Whip over to page 26 there, and I'll give your P27 for the CSM.
 139:55:15|CMP|Okay.
 139:55:18|CC|Okay. VERB 71; GET, 142:25:00; Index 21: 01, 501, 00, 002, 77, 730, 75, 126; Index 6 is 77, 472, 41, 104, 77, 633, 56, 122; Index 12: 60, 206, 77, 562, 00, 766, 25, 263, 04, 076; Index 17: 27, 204, 06, 071, 10, 56O. Read back.
 139:56:54|CMP|Okay. Verb 71; 142:25:00; 21: 01, 501, 00, 002, 77, 730, 75, 126; 77, 472, 41, 104, 77, 633, 56, 122; 60, 206, 77, 562, 00, 766, 25, 263, 04, 076; 27, 204, 06, 071, 10, 560.
 139:57:43|CC|Okay. Beautiful readback there, Stu.
 139:57:49|CMP|Okay.
-139:59:07|CC|Kitty Hawk, Houston. We've got a few more things to go on the uplink there. Can you still give us POO and ACCEPT?
+139:59:07|CC|Kitty Hawk, Houston. We've got a few more things to go on the uplink there. Can you still give us P00 and ACCEPT?
 139:59:17|CMP|Roger. You've still got it.
 140:02:13|CC|Kitty Hawk, Houston. Computer is yours.
 140:02:20|CMP|Okay. Thank you.
@@ -1131,7 +1131,7 @@
 142:11:30|CC|Okay. Stu, it looks like we're getting some bad VHF spots in there. Just reinitialize the W-matrix and go sextant only - sextant only. So, mark it.
 142:11:44|CMP|Okay. You say reinitialize? I've already accepted one.
 142:12:05|CC|Kitty Hawk, don't worry about the W-matrix on the ground. Just press on. Accept sextant marks only.
-142:12:16|CMP|It?s too late. I?ve already Initialized it.
+142:12:16|CMP|It's too late. I?ve already Initialized it.
 142:12:29|CC|Kitty Hawk, Houston. Request OMNI Bravo.
 142:13:41|CC|Apollo 14, this is Houston. LM PPI ground solution. DELTA-V: X, plus 63 feet per second; Y, plus 1; Z, plus 67. I say again. LM PPI, DELTA-V: X, plus 63.0 ; Y, plus 1.0; Z, plus 67.0. Ant ares , over.
 142:14:10|CC|Kitty Hawk, Houston. Looks like the best ground solution we have down there for the LM is about as written. It's plus 63.0, plus 1.0, and plus 67.O.
@@ -1170,7 +1170,7 @@
 143:15:20|CMP|You've lost a little weight since the last time I saw you.
 143:16:04|CMP|Okay.
 143:16:57|CDR-LM|Houston, Antares is stationkeeping at about 100 feet. Closing in a little more for the pictures of the service module and command module.
-143:17:04|CMP|Roger, Al. We've got you on television, and it?s looking beautiful.
+143:17:04|CMP|Roger, Al. We've got you on television, and It's looking beautiful.
 143:17:19|CMP|Okay, anytime you?re ready Al, you -
 143:17:24|CDR-LM|Okay, we've got you Stu. Go ahead and turn it around, we'll photograph you.
 143:17:27|CC|Say, Stu - -
@@ -1239,7 +1239,7 @@
 143:33:08|CMP|You ought to try it from up here.
 143:33:11|CC|This world and out of this world, too.
 143:33:28|CMP|Let me - let me clean up over here and I'll be -
-143:33:42|CC|Antares, Houston. When you have a moment, go to POO and DATA for us, and we've got an uplink for you. Good.
+143:33:42|CC|Antares, Houston. When you have a moment, go to P00 and DATA for us, and we've got an uplink for you. Good.
 143:33:58|CDR|Okay. You have it, Houston.
 143:34:01|CC|Thank you.
 143:34:07|LMP|Houston, are you going to give me the LM - command module weight?
@@ -1265,8 +1265,8 @@
 143:37:56|LMP|All right, Bruce, GO on your P30 pad.
 143:38:01|CC|Say again, Ed.
 143:38:06|LMP|I?m ready to copy P30 pad.
-143:38:08|CC|Okay. P30 purpose, good-bye LM. T. 147:54:18.90; NOUN 8l, minus 0182.0, plus 0039.0, plus all balls; H and H are NA; DELTA-VD 0186.1; 1:15; 012, 176; A r K minus 0181.9, plus 0039-0, minus 0006.0. Read back. Over.
-143:39:06|LMP|I've got your LMPact P30 pad. 147:54:18.90; minus 0182.0, plus 0039-0, plus all zeros; H^, Hp, NA; 0186.1; 1:15; 012, 176; minus 0l8l.9, plus 0039.0, minus 0006.0. End of pad.
+143:38:08|CC|Okay. P30 purpose, good-bye LM. T. 147:54:18.90; NOUN 81, minus 0182.0, plus 0039.0, plus all balls; H and H are NA; DELTA-VD 0186.1; 1:15; 012, 176; A r K minus 0181.9, plus 0039-0, minus 0006.0. Read back. Over.
+143:39:06|LMP|I've got your LMPact P30 pad. 147:54:18.90; minus 0182.0, plus 0039-0, plus all zeros; H^, Hp, NA; 0186.1; 1:15; 012, 176; minus 0181.9, plus 0039.0, minus 0006.0. End of pad.
 143:39:42|CC|Roger. And you've already got the LM weight.
 143:39:49|LMP|That's firm.
 143:39:52|CC|Okay, Ed. If you would, we'd like a few words from you on the subject of the AGS. We've lost the AGS downlink telemetry and sort of at a loss as to what its current status is. Could you spare a little time for that?
@@ -1275,7 +1275,7 @@
 143:40:57|CC|Successfully?
 143:40:59|LMP|Well, just now at - oh - about - oh, shortly before we hit the breaking gate.
 143:41:08|CC|Roger.
-143:41:24|CC|Ed, this is Houston. We'd like you to - on panel l6, cycle the ASA and AE circuit breaker -AEA circuit breaker, if you would, please?
+143:41:24|CC|Ed, this is Houston. We'd like you to - on panel 16, cycle the ASA and AE circuit breaker -AEA circuit breaker, if you would, please?
 143:41:45|LMP|Okay. They're cycled. In further answer to that last question, Bruce. It was some - somewhere around AOS, but I don't remember exactly when.
 143:41:55|CC|Roger, Ed. That's close enough.
 143:41:59|LMP|Good enough. I abandoned the AGS and started setting up the cameras for the docking about that point.
@@ -1314,14 +1314,14 @@
 143:48:55|CMP|Okay, why don't I take it now? I'm waiting for a hatch check here.
 143:49:01|CC|Okay, let me know when you?re ready.
 143:49:06|CMP|Well, let her rip.
-143:49:08|CC|Okay. CSM SEP, RCS, T t 146:30:00.0; NOUN 8l, minus 0001.0; Y and Z are all zips; roll, 301, 355, 348; the rest of the pad is NA; remarks, LM-jettison time, 146:25:00; and the roll, pitch, and yaw for LM jettison are the same as for SEP. Over.
+143:49:08|CC|Okay. CSM SEP, RCS, T t 146:30:00.0; NOUN 81, minus 0001.0; Y and Z are all zips; roll, 301, 355, 348; the rest of the pad is NA; remarks, LM-jettison time, 146:25:00; and the roll, pitch, and yaw for LM jettison are the same as for SEP. Over.
 143:50:04|CMP|Okay. SEP pad, 146:30:00.00; DELTA-VY, minus 1.0, all zips, all zips; 301, 355, 348; jettison, 146:25:00.00; 301, 355, and 348.
 143:50:32|CC|Roger.
 143:50:44|LMP|Okay, Bruce. I'm ready to copy any pads you have for me.
 143:50:50|CC|Ed, this is Houston. I believe we're up to date already on you.
 143:50:59|LMP|Okay. I misunderstood. I thought you had a call for me a minute ago.
 143:51:36|CC|Kitty Hawk, Houston. We'd like to get P00 and ACCEPT, if that's convenient with you, and confirm all the ROTATIONAL HAND CONTROL POWER DIRECT switches, OFF, please.
-143:51:55|CMP|Okay. You've got POO and ACCEPT and DIRECT, OFF.
+143:51:55|CMP|Okay. You've got P00 and ACCEPT and DIRECT, OFF.
 143:51:59|CC|Roger. Out.
 143:52:15|LMP|Stu, are the pressures equal in the tunnel yet?
 143:52:19|CMP|That's affirmative. I'm about to drop the hatch.
@@ -1418,13 +1418,13 @@
 146:05:35|CC|14, this is Houston. Six minutes and 30 seconds to LOS. How do you read? Over.
 146:05:46|CMP|You're completely unreadable, Houston. Everytime you talk, we drop the signal.
 146:05:50|CC|Roger. Stu, you're coming in pretty well now. We'd like to have you acquire us on the HIGH GAIN.
-146:06:03|CMP|Houston, if you're asking for POO and ACCEPT, you have it.
+146:06:03|CMP|Houston, if you're asking for P00 and ACCEPT, you have it.
 146:06:07|CC|Thank you. We also need the HIGH GAIN.
 146:06:26|CC|Apollo 14, Houston. How do you read?
 146:06:36|CMP|Houston, everytime you transmit, our signal strength goes down, just right in synchronization with your words.
 146:06:48|CC|Roger, Out.
 146:07:11|CMP|Houston, do you read 14?
-146:07:27|CMP|Houston, if you're wanting POO and ACCEPT, you have it.
+146:07:27|CMP|Houston, if you're wanting P00 and ACCEPT, you have it.
 146:08:00|CMP|Houston, how do you read 14?
 146:11:39|CC|Apollo 14, this is Houston. Uplink complete. It's your computer. At 147 plus 10 plus 00, we'd like you to maneuver to roll, 026; pitch, 091; yaw, 000, for communications. HIGH GAIN will be PITCH, minus 10; YAW, plus 183. I repeat roll, 026; pitch, 091; yaw, 000. HIGH GAIN: PITCH, minus 10; YAW, plus 183; and the time for that is 147 plus 10. The normal time for the LTC photo pad maneuver, LOS, Over.
 146:12:29|CMP|Roger. Verify the roll, 026.
@@ -1438,15 +1438,15 @@
 146:59:16|CMP|Well, we're mighty interested in the first one, anyway.
 146:59:20|CC|Okay. Let me know when you're ready to write.
 146:59:33|CMP|I have pen in hand, awaiting your message.
-146:59:36|CC|Okay. TEI-34, SPS/G&N; 34720; minus 0.72, plus 0.08; 149:16:04.30; NOUN 8l: plus 3013.3, plus 1667.4, minus 0340.3; attitude: 180, 000, 000; NOUN 44: H , N/A; Hp, plus 0019.0; 3460.6, 2:28, 3436.6; sextant star, 11, 124.9, 22.5; NOUN 6l: minus 27.03, minus 171.51; 1160.4, 36252; GET for .05g, 216:23:33; GDC aline stars are Sirius and Rigel, 14o, 020, 350; ullage, four jets, 12 seconds. Go ahead.
-147:02:07|CMP|Okay, Gordon. TEI-34 pad, SPS/G&N; 34720; minus 0.72, plus 0.08; 149:l6:04.30; plus 3013.3, plus 1667.4, minus 0340.3; 180, 000, 000; HA N/A; plus 0019.0; 3460.6, 2:28, 3436.6; 11, 124.9, 22.5; NOUN 6l: minus 27-03, minus 171.51; 1160.4, 36252; 216:23:33; Sirius and Rigel, lio, 020, 350; four jet, 12 seconds.
+146:59:36|CC|Okay. TEI-34, SPS/G&N; 34720; minus 0.72, plus 0.08; 149:16:04.30; NOUN 81: plus 3013.3, plus 1667.4, minus 0340.3; attitude: 180, 000, 000; NOUN 44: H , N/A; Hp, plus 0019.0; 3460.6, 2:28, 3436.6; sextant star, 11, 124.9, 22.5; NOUN 61: minus 27.03, minus 171.51; 1160.4, 36252; GET for .05g, 216:23:33; GDC aline stars are Sirius and Rigel, 14o, 020, 350; ullage, four jets, 12 seconds. Go ahead.
+147:02:07|CMP|Okay, Gordon. TEI-34 pad, SPS/G&N; 34720; minus 0.72, plus 0.08; 149:16:04.30; plus 3013.3, plus 1667.4, minus 0340.3; 180, 000, 000; HA N/A; plus 0019.0; 3460.6, 2:28, 3436.6; 11, 124.9, 22.5; NOUN 61: minus 27-03, minus 171.51; 1160.4, 36252; 216:23:33; Sirius and Rigel, lio, 020, 350; four jet, 12 seconds.
 147:02:20|CC|Okay, Stu. Readback correct. I'm ready the TEI-35.
 147:02:31|CMP|Go ahead.
 147:03:33|CC|TEI-35, SPS/G&N; the weight is 34720; minus 0.72, plus 0.08; 151:16:02.94; plus 3097.7, plus 1633.1, minus 0468.2; 178, 358, 359; ullage, four jets, ele - correction, four jets, 12 seconds. Go ahead.
 147:04:38|CMP|Okay. TEI-35, SPS/G&N; 34720; minus 0.72, plus 0.08; 151:16:02.94; plus 3097-7, plus 1633.1, minus 0468.2; 178, 358, 359; four jets, 12 seconds
 147:05:07|CC|Okay, Stu. The readback is correct. I have some more information for this upcoming photographs with the 500-millimeter of the 13 S-IVB LMPact crater. Over.
 147:05:24|CMP|Okay.
-147:05:25|CC|Okay. Give us POO and ACCEPT. We'll give you a state vector and target load while we're getting this.
+147:05:25|CC|Okay. Give us P00 and ACCEPT. We'll give you a state vector and target load while we're getting this.
 147:05:37|CMP|Do you have it?
 147:05:39|CC|Okay. Information on the photo pass. At 148:15, maneuver to roll, 026; pitch, 104; yaw, 000. We. suggest you use magazine Papa, the same 500-millimeter COAS procedures as before. T-start is 148:23:03. For locating visually the target, we suggest you use the zero-phase landmark map 7 and 8. To refresh your memory, the LMPact crater is on the northeastern rim of Lansberg B located on a line from Lansberg B to Lansberg. So, these procedures - We want you to pitch at T-start plus 1 minute and ignore the ORDEAL. Do not use the ORDEAL numbers be - This is because of a misaline-ment due to the TEI REFSMMAT. The pitch should work out to be a pure pilot pitch. Over.
 147:07:31|CMP|Okay. At 148:15, maneuver to 026, 104, 000. Use magazine P, the same 500-millimeter procedures. T-START at 148:23:03. Northeast rim of Lansberg B. I know the general area. I don?t know how good an area this type of photography covers, though.
@@ -1496,7 +1496,7 @@
 147:30:37|CMP|Okay.
 147:32:36|CC|Stu, this is Houston.
 147:32:41|CMP|Go ahead.
-147:32:43|CC|We've got about 9 and a half minutes until LM LMPact. And at the risk of insulting your intelligence, we just wanted to remind you to - that, if you do reselect P30 between now and the - and the burn, be sure to reload the NOUN 8ls.
+147:32:43|CC|We've got about 9 and a half minutes until LM LMPact. And at the risk of insulting your intelligence, we just wanted to remind you to - that, if you do reselect P30 between now and the - and the burn, be sure to reload the NOUN 81s.
 147:33:05|CMP|Okay. We won't reselect P30.
 147:33:06|CC|Roger.
 147:37:43|CC|14, Houston.
@@ -1524,7 +1524,7 @@
 147:50:22|CC|14, Houston. Give us OMNI Delta, please.
 147:53:32|CC|Apollo 14, Houston.
 147:53:37|LMP|Go ahead.
-147:53:42|CC|14, Houston. We have about l6 and a half minutes to LOS. We'd like to see you in burn attitude and also get a look at P40 prior to losing you.
+147:53:42|CC|14, Houston. We have about 16 and a half minutes to LOS. We'd like to see you in burn attitude and also get a look at P40 prior to losing you.
 147:53:57|LMP|Okay, Gordon. ... that.
 147:57:52|CC|Apollo 14, Houston.
 147:57:57|LMP|Go ahead, Houston.
@@ -1563,13 +1563,13 @@
 149:05:09|CC|Okay. If - -
 149:05:11|CMP|Hey, Gordon, a little - Hey, Gordon.
 149:05:14|CC|Go ahead.
-149:05:16|CMP|A little clarification on that. See, we hadn't planned on it. We've got it all stowed and everything all over it, since we hadn't planned on -on using it. It?s pretty tough to get to, now.
+149:05:16|CMP|A little clarification on that. See, we hadn't planned on it. We've got it all stowed and everything all over it, since we hadn't planned on -on using it. It's pretty tough to get to, now.
 149:05:28|CC|Okay. I was instructed to mention it to you. If you had any feelings about it, well, just forget the whole thing; and that's what we'll do - just scrub it. So, after you change the DAP load there, we'd like you to do the procedures, as shown an hour later there at 151:30; go into PTC and presleep; and you're clear to hit the sack after that.
 149:05:58|CDR|Okay. 151:30, PTC, presleep, and rest period.
 149:06:03|CC|Right. I don't mean to say you have to wait until 151:30 to do it. The procedures, as shown at that time, you can do those as soon as you're ready.
 149:06:14|CDR|Oh, okay. Thanks. We'll probably do them a little sooner than that, then.
-149:06:22|CC|If you'll give us POO and ACCEPT, we'll give you a PTC REFSMMATT,
-149:06:35|CMP|Okay, you got it, Gordon: POO and ACCEPT.
+149:06:22|CC|If you'll give us P00 and ACCEPT, we'll give you a PTC REFSMMATT,
+149:06:35|CMP|Okay, you got it, Gordon: P00 and ACCEPT.
 149:06:37|CC|Okeydoke.
 149:07:21|CC|14, Houston. At your convenience, we'd like the NOUN 93 figures on that last P52, prior to TEI.
 149:07:37|CDR|Stand by 1.
@@ -1595,7 +1595,7 @@
 150:35:41|CMP|Well, don't know if you been trying to call or not. We've been hustling around on this storage, here.
 150:35:49|CC|Roger.
 150:35:51|CMP|And, do our rates look good enough for spinup?
-150:36:02|CC|Stand by 1, Stu. Stu, if you'll give us POO and ACCEPT, we'll get a state vector before we spin up, there.
+150:36:02|CC|Stand by 1, Stu. Stu, if you'll give us P00 and ACCEPT, we'll get a state vector before we spin up, there.
 150:36:20|CMP|That sounds good.
 150:36:24|CC|Also, I guess we're going to have one for you to write down by hand.
 150:36:33|CMP|Okay.
@@ -1727,7 +1727,7 @@
 163:25:36|CC|And, looking ahead at the midcourse situation here, we'll have a decision for you shortly on whether we want to burn midcourse 5 or not. Right now, its magnitude looks like something on the order of a half to three-quarters of a foot per second. With no midcourses at all coming back, your gamma is minus 6.97 degrees. If we start making midcourses, 5 they say, would be about a half to three-quarters of 6's on the order of three-quarters of a foot per second, and 7 looks like about 2.7 or something on that order reading out. We'll keep you posted. We owe you some detail procedures on probe stowage, which will be up later on today. And, when Stu gets through with the P23, we'd like to clarify the status of his biomed harness. We didn't get any data from him up until about 160 hours this morning; and then, it came in loud and clear.
 163:26:52|LMP|Okay. I think we can clarify that for you.
 163:26:54|CMP|I can verify the biomed harness is okay, Bruce.
-163:26:58|CC|Okay. Was it switched on all the time, or did you get up and switch it on about l60?
+163:26:58|CC|Okay. Was it switched on all the time, or did you get up and switch it on about 160?
 163:27:08|CMP|You've got it right.
 163:27:15|CC|Roger, Out.
 163:27:49|CC|And, 14; this is Houston. I've got some questions on the subject of the AGS again for ED, when he's free; and we've also got some news items if you're interested in hearing the news.
@@ -1765,15 +1765,15 @@
 164:31:54|LMP|Okay, Bruce. Say again when you want to do this.
 164:31:58|CC|Roger. When Stu's through with his P23 and prior to starting the maneuver to thermal attitude that you've got called out - oh, at about 164:55, VERB 49, maneuver to thermal attitude. Over.
 164:32:14|LMP|Okay. Will do.
-164:38:31|CC|14, Houston. If you want to sit there in POO and ACCEPT for a minute, we've got the target load and state vector update for you.
-164:38:44|CMP|Okay. We're POO and ACCEPT. I guess we're going to do midcourse 5, huh.
+164:38:31|CC|14, Houston. If you want to sit there in P00 and ACCEPT for a minute, we've got the target load and state vector update for you.
+164:38:44|CMP|Okay. We're P00 and ACCEPT. I guess we're going to do midcourse 5, huh.
 164:38:50|CC|Roger. Sorry about that. Yes, we will burn midcourse 5 as scheduled. And I've got the midcourse 5 pad for you whenever you're ready to copy.
 164:39:03|CMP|Okay. Stand by 1.
 164:39:52|LMP|Houston, Apollo 14. Ready to copy it.
-164:39:55|CC|Roger, Ed. Midcourse correction number 5; RCS/G&N; 24561; pitch and yaw trim, N/A. T^ , l66:14:58.54; NOUN 8l, plus 0000.7, minus all balls, minus all balls; roll, 092, 330, 009; HA is N/A, plus 0018.9; 0000.7, 0:03, 0000.7; sextant star 33, 256.3, 13.5; boresight star is N/A; minus 27.03, minus 172.62; 1158.8, 36251; 216:28:03; GDC aline, Sirius and Rigel; 230, 170, 002; plus-X, two jet, Bravo and Delta. HIGH GAIN angles in this attitude: PITCH, minus 90; YAW, plus 206. Read back over.
+164:39:55|CC|Roger, Ed. Midcourse correction number 5; RCS/G&N; 24561; pitch and yaw trim, N/A. T^ , 166:14:58.54; NOUN 81, plus 0000.7, minus all balls, minus all balls; roll, 092, 330, 009; HA is N/A, plus 0018.9; 0000.7, 0:03, 0000.7; sextant star 33, 256.3, 13.5; boresight star is N/A; minus 27.03, minus 172.62; 1158.8, 36251; 216:28:03; GDC aline, Sirius and Rigel; 230, 170, 002; plus-X, two jet, Bravo and Delta. HIGH GAIN angles in this attitude: PITCH, minus 90; YAW, plus 206. Read back over.
 164:41:57|LMP|Give again the jets to use, please, sir.
 164:42:01|CC|Jets Bravo and Delta, B and D. Over.
-164:42:08|LMP|Okay. Okay, midcourse 5; RCS/G&N; 24561; N/A, N/A; at l66:14:58.54; plus 0000.7, minus all zips, minus all zips; 092, 330, 009; N/A, plus 0018.9, 0000.7, 0:03, 0000.7; 33, 256.3, 13.5; N/A; minus 27-03, minus 172.62, 1158.8, 36251; 216:28:03; Sirius and Rigel; 230, 170, 002; plus-X, two jet, B and D. HIGH GAIN ANTENNA angles: PITCH, minus 90; YAW, 206.
+164:42:08|LMP|Okay. Okay, midcourse 5; RCS/G&N; 24561; N/A, N/A; at 166:14:58.54; plus 0000.7, minus all zips, minus all zips; 092, 330, 009; N/A, plus 0018.9, 0000.7, 0:03, 0000.7; 33, 256.3, 13.5; N/A; minus 27-03, minus 172.62, 1158.8, 36251; 216:28:03; Sirius and Rigel; 230, 170, 002; plus-X, two jet, B and D. HIGH GAIN ANTENNA angles: PITCH, minus 90; YAW, 206.
 164:43:34|CC|Roger. Readback is correct. And were you aware that you're now coming back on Wednesday instead of Tuesday?
 164:43:45|CDR|No, we haven't considered that fact. But I guess we'll make it up between the splashdown and Houston, right.
 164:43:50|CC|(Laughter) Roger, Roger you. After the TEI burn, it looks like you're about 3 or 4 miles west of the jog in the international dateline, as it comes down through your splashdown area.
@@ -1833,7 +1833,7 @@
 165:03:34|CC|Okay. I guess that about sums it up.
 165:03:40|LMP|There is one comment. I noticed, just before leaving the LM, there appeared to be a very small crack across the address register on the DEDA. Now, how long it had been there, whether it was bumped after docking, or when it occurred, I have no idea. But there did appear to be a crack in the inner glass on the address register.
 165:04:14|CC|Okay. Thank you.
-165:11:48|CC|14, this is Houston, On your waste water dump scheduled for l66 hours, we'd like you to dump to 25 percent onboard indication. Over.
+165:11:48|CC|14, this is Houston, On your waste water dump scheduled for 166 hours, we'd like you to dump to 25 percent onboard indication. Over.
 165:12:03|LMP|Roger. Waste water dump to 25 percent onboard indication.
 165:12:07|CC|Roger.
 165:18:11|CC|Apollo 14, this is Houston. For systems recordkeeping purposes, if you have time, we'd like you to run an EMS null bias check, and give us the results on it.
@@ -1866,7 +1866,7 @@
 165:52:57|CC|Go ahead, 14.
 165:53:00|CMP|Okay, Bruce. Are you ready for the uplink?
 165:53:02|CC|That's affirmative. We're ready to send you up what will become the CM - the CSM state vector after we ship it over, and then there will be about a 2-minute delay while we get the MSFN-computed CSM state vector that goes in the LM slot out to the side. Over.
-165:53:22|CMP|Okay. We?re POO and ACCEPT, and standing by at your convenience.
+165:53:22|CMP|Okay. We?re P00 and ACCEPT, and standing by at your convenience.
 165:53:26|CC|Roger; out.
 166:01:24|CC|14, this is Houston. We're through with the uplink. Computer's yours.
 166:01:32|CMP|Okay.
@@ -1877,9 +1877,9 @@
 166:11:20|CC|I understand you're ready to copy, Ed. Over.
 166:11:29|LMP|Stand by.
 166:11:46|LMP|Okay, Bruce. What page do you want worked on?
-166:11:52|CC|Okay. If you look on page 3-245 of the flight plan, the one that starts at l68 hours.
+166:11:52|CC|Okay. If you look on page 3-245 of the flight plan, the one that starts at 168 hours.
 166:12:02|LMP|Okay.
-166:12:04|CC|Okay. There are three steps there, that are: circuit breaker 0^ IS0LATI0N/AUX BAT, close, which is panel 226; 0^ TANK 3 ISOLATION valve, CLOSED, momentary; and 0^ TANK 3 ISOLATION valve talk back barber pole. We'd like to move those three steps up to l67 hours. Over.
+166:12:04|CC|Okay. There are three steps there, that are: circuit breaker 0^ IS0LATI0N/AUX BAT, close, which is panel 226; 0^ TANK 3 ISOLATION valve, CLOSED, momentary; and 0^ TANK 3 ISOLATION valve talk back barber pole. We'd like to move those three steps up to 167 hours. Over.
 166:12:43|LMP|Okay. The three steps: circuit breaker 0^ ISOLATION/AUX BAT, closed; 02 TANK 3 IS0L valve, CLOSED, momentary; and 02 TANK 3 IS0L valve talk back barber pole. These are moved to 167 hours.
 166:12:59|CC|Roger. And, also, at 167 hours: circuit breaker OXYGEN TANK 3, 50-WATT HEATERS, open, 226. Over.
 166:13:24|LMP|Okay. Say it again, want you want done with that one.
@@ -2165,7 +2165,7 @@
 172:15:55|CC|We can see - -
 172:15:56|CMP|I might add -
 172:15:57|CC|- - a little bit of difference there. It's not readily apparent; but, as you point it out, I believe we can see those zones moving out.
-172:16:08|CMP|Okay, and that's it basically. Now when we actually do the experiment for data, we have a l6-millimeter camera that sits out 1 foot; and we turn in on, and it takes a picture, and you go through a sequence here. So it's - it's a detailed experiment, in which we have the procedures and we run through those. And just - what we're doing here is just showing you the gross features of the experiment and - and its typical operation. Not trying to show you exactly how we gather the data or anything like that. And we're turning off the heat-convection experiment, now.
+172:16:08|CMP|Okay, and that's it basically. Now when we actually do the experiment for data, we have a 16-millimeter camera that sits out 1 foot; and we turn in on, and it takes a picture, and you go through a sequence here. So it's - it's a detailed experiment, in which we have the procedures and we run through those. And just - what we're doing here is just showing you the gross features of the experiment and - and its typical operation. Not trying to show you exactly how we gather the data or anything like that. And we're turning off the heat-convection experiment, now.
 172:16:51|CC|Roger.
 172:16:56|CMP|Okay, how are we focused on the tanks now, Gordon? Stand by.
 172:17:06|CC|Okay, Stu. That looks really good. Just center it up slightly, and we can see the liquid and the baffles very clearly. Over.
@@ -2205,7 +2205,7 @@
 172:26:35|CDR|What I'm doing here is opening a flow valve, between the tank and Krytox and the liquid plate. And over here we have a pump, which is actuated when I turn it in a clockwise direction.
 172:27:02|CDR|Perhaps you can already see that we have fluid coming out, right here. It's staying right in this crevice, moving up the side walls. Can you see that on the camera?
 172:27:14|CC|Yes, sir. We can see that very clearly.
-172:27:20|CDR|See, it?s doing it almost the same all the way around it. This one is spreading a little further down the line, doesn't have quite as much fluid yet. But these two are spreading the same way. They're going up the walls as much as they are coming out on the floor. Now we'll get a finger in here and see what happens.
+172:27:20|CDR|See, It's doing it almost the same all the way around it. This one is spreading a little further down the line, doesn't have quite as much fluid yet. But these two are spreading the same way. They're going up the walls as much as they are coming out on the floor. Now we'll get a finger in here and see what happens.
 172:28:07|CDR|I believe we may be able to get enough there to show you the formation of these Benard cells.
 172:28:13|CC|Okay.
 172:28:46|CDR|We have a thin layer here, now, Let's turn on some heat and we'll see what happens.
@@ -2221,7 +2221,7 @@
 172:32:17|CC|Stu, the experts here would like to pass along the fact that it should take longer to get the cell formation with a thin layer of fluid than with a thick wet - than with a thick layer.
 172:32:37|CDR|Yes; well, we have a peculiar pattern in this - in this fluid, which you probably can?t see; but the fluid, which I put in the center, stayed there, but there's a very thin layer here indicating that it's gone out radially again. And, as you can see, we have some pretty good-size fillets that stay right on the outside of the - of the cup. Very much the same principle as the surface tension that you saw in the experiment of the tank without the baffles.
 172:33:09|CC|Roger, Al.
-172:33:22|CDR|Well, the cells are forming. You can see very small cells. But you probably can't pick them up with the camera, because the cells are only approximately a l6th of an inch in diameter, right now. I think - yes - if you hold on just a minute, we're going to see some pretty spectacular formations. They're starting to form right now and get a little bit larger.
+172:33:22|CDR|Well, the cells are forming. You can see very small cells. But you probably can't pick them up with the camera, because the cells are only approximately a 16th of an inch in diameter, right now. I think - yes - if you hold on just a minute, we're going to see some pretty spectacular formations. They're starting to form right now and get a little bit larger.
 172:33:47|CC|Okay.
 172:33:52|LMP|Gordon, are you able to see the detail of the cells?
 172:33:58|CC|Not really now, Ed. It's - we see some texture there in the - in the fluid, but it's hard to say that they're really cells from here.
@@ -2575,7 +2575,7 @@
 190:39:58|CDR|Okay -
 190:39:59|CDR|MARK.
 190:40:15|CDR|Okay. It's all dark.
-190:56:00|CC|14, this is Houston. Nothing heard for l6 minutes. Over.
+190:56:00|CC|14, this is Houston. Nothing heard for 16 minutes. Over.
 190:56:07|CDR|That's correct.
 190:56:21|LMP|Not only correct, but unusual, Bruce.
 190:56:26|CC|Run that one by again - -
@@ -2750,17 +2750,17 @@
 192:59:09|CC|- - This is Houston. Over.
 192:59:14|LMP|Yes, Bruce; we've turned it off now.
 192:59:16|CC|Roger.
-193:00:38|CC|14, this is Houston. When you can give us POO and ACCEPT, we have a state vector and a clock update for you. Over. - Or uplink.
+193:00:38|CC|14, this is Houston. When you can give us P00 and ACCEPT, we have a state vector and a clock update for you. Over. - Or uplink.
 193:00:50|CMP|Okay, Bruce; you've got it.
 193:00:52|CC|Roger, Stu. You?re very weak.
-193:00:59|CMP|Well, how now? Maybe it works better if I talk into the mike. We're POO and ACCEPT.
+193:00:59|CMP|Well, how now? Maybe it works better if I talk into the mike. We're P00 and ACCEPT.
 193:01:04|CC|That comes through a lot better.
 193:01:17|CC|And, for your information, Stu, based On your last set of P23s, your navigated state vector has a gamma at entry interface of minus 6.74; MSFN solution of minus 6.35 remains unchanged. Over.
 193:01:39|CMP|Well, didn't sound like it helped us much.
 193:01:45|CC|Well, you might be right; who knows?
 193:01:52|LMP|Say, Bruce. Observe the HIGH GAIN starting to oscillate. What would you like to do with it?
 193:02:02|CC|Yes; they tell me you're on OMNI Delta right now. We'll get you something to do with the HIGH GAIN.
-193:02:10|LMP|If we're on OMNI Delta, it?s news to me.
+193:02:10|LMP|If we're on OMNI Delta, It's news to me.
 193:02:20|CC|Stand by, please.
 193:03:07|CC|14, this is Houston. We've uplink commanded you to OMNI Delta. We'd like you to park the HIGH GAIN ANTENNA at PITCH, minus 52; YAW, 270. Over.
 193:03:22|LMP|Wilco.
@@ -2781,10 +2781,10 @@
 193:10:12|CC|Apollo 14, this is Houston. I have an entry pad and a CSM state vector pad for you. Over.
 193:10:21|LMP|Okay. Stand by.
 193:11:07|LMP|We're ready to copy the entry pad, Bruce.
-193:11:10|CC|Roger, Ed. Mid-Pacific entry pad: roll, 000, 154, 000; 216:10:47, 267; minus 27-02, minus 172.64; max g 06.1; 36170, 6.35; 1135-0, 36251; RRT 216:27:47; 00:29; NOUN 69 is NA; DQ, 4.00, 02:10; 00:l8, 03:36, 08:03; sextant star 30, 354.3, 30.7; boresite star, good ol' Nu Hydra, up 21.1, left 2.8; up lift vector. Comment 1: use nonexit EMS pattern; 2: Moon check attitude, Moon at left of window; roll, 000; pitch, 182; yaw, 000; number 3: moonset GET, 2l6 plus 25 plus 15; number 4: RET of 90,000 feet, 6 plus 25; main deploy, 8 plus 51; landing, 13 plus 48; number 5: constant g entry is roll right - right; 6: GDC aline, Sirius and Rigel, 322, 325, 018; number 7: the attitude at .05g and the GDC aline angles, assume a P52 nominal alinement, option 2, using the RRT time of 216 plus 27 plus 47. Read back. Over.
+193:11:10|CC|Roger, Ed. Mid-Pacific entry pad: roll, 000, 154, 000; 216:10:47, 267; minus 27-02, minus 172.64; max g 06.1; 36170, 6.35; 1135-0, 36251; RRT 216:27:47; 00:29; NOUN 69 is NA; DQ, 4.00, 02:10; 00:l8, 03:36, 08:03; sextant star 30, 354.3, 30.7; boresite star, good ol' Nu Hydra, up 21.1, left 2.8; up lift vector. Comment 1: use nonexit EMS pattern; 2: Moon check attitude, Moon at left of window; roll, 000; pitch, 182; yaw, 000; number 3: moonset GET, 216 plus 25 plus 15; number 4: RET of 90,000 feet, 6 plus 25; main deploy, 8 plus 51; landing, 13 plus 48; number 5: constant g entry is roll right - right; 6: GDC aline, Sirius and Rigel, 322, 325, 018; number 7: the attitude at .05g and the GDC aline angles, assume a P52 nominal alinement, option 2, using the RRT time of 216 plus 27 plus 47. Read back. Over.
 193:15:43|LMP|Okay, Bruce. Think the only thing I missed was the - the boresite star angles. I have a up 21.1, and a left - something.
 193:15:49|CC|Okay, left 2.8. Over.
-193:17:01|LMP|Okay, MEDPAC 000, 154, 000; 216:10:47, 267; minus 27-02, minus 172.64; 06l; 36170, 6.35; 1135*0, 36251; 216:27:47; 00:29; NA DQ is 4.00, 02:10; 00:18, 03:36, 08:03; 30, 354.3, 30.7; Nu Hydra, up 21.1, left 2.8, lift vector, up. And use nonexit EMS pattern; Moon check attitude is roll, 000; pitch, 182; yaw, 000; Moon will be to the left window; the moonset is at 216:25:15; the RET of 90 K is 6 plus 25. The mains is 8 plus 51, and landing is 13 plus 48; for the constant g reentry, it's roll right; GDC aline stars are Sirius and Rigel at angles of 332, 325, 018; and the moonset and Moon check times, I believe you said, are.for a P52, using option 3 - option 2, and RRT time of 216:27:47-
+193:17:01|LMP|Okay, MEDPAC 000, 154, 000; 216:10:47, 267; minus 27-02, minus 172.64; 061; 36170, 6.35; 1135*0, 36251; 216:27:47; 00:29; NA DQ is 4.00, 02:10; 00:18, 03:36, 08:03; 30, 354.3, 30.7; Nu Hydra, up 21.1, left 2.8, lift vector, up. And use nonexit EMS pattern; Moon check attitude is roll, 000; pitch, 182; yaw, 000; Moon will be to the left window; the moonset is at 216:25:15; the RET of 90 K is 6 plus 25. The mains is 8 plus 51, and landing is 13 plus 48; for the constant g reentry, it's roll right; GDC aline stars are Sirius and Rigel at angles of 332, 325, 018; and the moonset and Moon check times, I believe you said, are.for a P52, using option 3 - option 2, and RRT time of 216:27:47-
 193:18:22|CC|14, this is Houston. Your readback is correct. The attitudes that I was referencing you were the .05g attitude and the DC aline angles. Your statements regarding moonset and all that, however, are also correct. Over.
 193:18:42|LMP|Okay.
 193:18:44|CC|And for Stuart, I've got a CSM state vector pad, if you're ready to copy.
@@ -2910,7 +2910,7 @@
 194:09:47|CDR|Okay. We're on the way.
 194:11:27|CMP|Houston, 14.
 194:11:28|CC|Go ahead, 14.
-194:11:32|CMP|Okay. Bruce. We've got this bag that the - hatch -the hatch - window bracket for the camera, you know, they used on the zero phase, and we had as a stand by - 70-millimeter-camera hatch window adapter bag, and it?s big enough to go over the - the probe head. We just sweat it a little bit.
+194:11:32|CMP|Okay. Bruce. We've got this bag that the - hatch -the hatch - window bracket for the camera, you know, they used on the zero phase, and we had as a stand by - 70-millimeter-camera hatch window adapter bag, and It's big enough to go over the - the probe head. We just sweat it a little bit.
 194:12:01|CC|Beautiful, Stu. If you can get that over and tape her down so that you have a water - salt water spray protection on the probe head, that's all we need. Over.
 194:12:12|CMP|Okay. We'll do that.
 194:15:50|CC|14, this Houston. How are you reading me, now? Over.
@@ -2969,7 +2969,7 @@
 194:46:30|CDR|I would only add to those comments that - that we're basically sensible people, that we?re involved in a program of developing and promoting technology. Apollo 12 is only one - one step in the space technology. I feel that Apollo 12 -Apollo 14, I should say - has been a - a resounding success; and I don't really think that we've been able to assess, at this stage, what the contributions will be; but I can intuitively tell from what we've done, what we've seen on the surface, that we're bringing back a wealth of information photographically and geologically, that we've left stations and other stations on the Moon sending back information for scientific purposes. And I think that, generally speaking, it was a smashing success.
 194:47:25|CC|Again, for each of you. What event in the flight touched you most emotionally?
 194:47:37|CDR|Well., I think the big emotion for me is yet to come, and that's getting both feet on the carrier.
-194:47:45|CMP|Okay. I'd say up to - There - there's been a lot of rather tremendous sights on the mission so far, and entry will be another one; but I guess, the -the first look at the Moon after you - after you burn L0I and in the darkness and you come around, pitch to an attitude where you can see - see the Moon and it?s there below you at about 60 miles, but it looks like about 200 feet. And your first LMPression of the body is a rather tremendous thing.
+194:47:45|CMP|Okay. I'd say up to - There - there's been a lot of rather tremendous sights on the mission so far, and entry will be another one; but I guess, the -the first look at the Moon after you - after you burn L0I and in the darkness and you come around, pitch to an attitude where you can see - see the Moon and It's there below you at about 60 miles, but it looks like about 200 feet. And your first LMPression of the body is a rather tremendous thing.
 194:48:27|LMP|I think Stu's choice is my number 2, and my number-1 LMPact is when we pitched over and there was Cone Crater right out the window. It was very LMPressive.
 194:48:42|CC|You have not talked to your wives and families since you left Cape Kennedy. Is there anything that you would like to say to them now? We will make sure they hear about it.
 194:48:55|CDR|Well, thank you. I'm sure you all have done a wonderful job of keeping them posted, particularly with the communications link and everything; and I guess, perhaps, they're probably as well informed of the flight as we are ourselves; but, in case they don?t know, we're all very well, very happy, and say hello; and we'll look forward to seeing them in a few days. Ed?
@@ -2988,7 +2988,7 @@
 194:52:51|CDR|Go ahead.
 194:52:53|CC|This attitude will be a good one to hold through the P52. Over.
 194:53:02|CDR|Okay. Is it also a good attitude for probe stowage?
-194:53:07|CC|It?s also a good attitude for probe stowage.
+194:53:07|CC|It's also a good attitude for probe stowage.
 194:53:22|CDR|How was the quality of the picture on that last television transmission, Houston?
 194:53:28|CC|It was a very good picture; in fact, our estimate is that it was as good as it's been at any time during the flight.
 194:53:40|CDR|Okay.
@@ -3207,7 +3207,7 @@
 197:42:58|CC|Roger.
 197:43:01|CC|Stu, in answer to your question - Stand by 1.
 197:43:26|CC|Stu, in answer to your question, the attitude is designed to afford the maximum shading from the Sun on the optics as possible. And we'd like you - wonder if you have looked through the sextant to verify that it - that they are boresighted on the Earth's - Earth dark side. Over.
-197:43:46|CMP|Well, yes. It is. We still got that same scattered light problem, which we discussed on the way out. But - it's - it?s off the terminator, sure enough, so if everybody's agreeable, we'll shoot it here.
+197:43:46|CMP|Well, yes. It is. We still got that same scattered light problem, which we discussed on the way out. But - it's - It's off the terminator, sure enough, so if everybody's agreeable, we'll shoot it here.
 197:44:11|CC|That's affirmative. They concur. They expected some scattered light and they'd like to go ahead and take the pictures as shown in the flight plan.
 197:44:20|CMP|Okay.
 197:53:01|CDR|Houston, 14. We've completed darkside photography now. We're going to start PTC.
@@ -3348,7 +3348,7 @@
 207:48:33|CMP|And you got her, Fredo.
 207:48:36|CC|Okay. Thank you. .
 208:27:06|CC|Not bad, Stu.
-208:27:10|CMP|Well, I'm not sure whether it?s good or bad, Fred. I think we probably need some update. That doesn't help me much.
+208:27:10|CMP|Well, I'm not sure whether It's good or bad, Fred. I think we probably need some update. That doesn't help me much.
 208:27:27|CC|Well, Dave here says you're looking pretty close.
 208:27:46|CC|Or maybe it's like the old saying, even the blind squirrel finds a nut, now and then.
 208:27:55|CMP|Hey, you're just all heart this morning, Fredo.
@@ -3439,7 +3439,7 @@
 211:05:19|CMP|Okay. .
 211:05:24|CC|And, Ed, if you're ready, I've got the entry pad.
 211:05:29|LMP|Okay. Let's copy.
-211:05:31|CC|Roger. Entry: mid-Pacific area; roll at .05g: 000, 154, 000; 2l6:10:47; 267; minus 27.02, minus 172.65; MAX g, 06.2; 36170, 6.39; l140.2, 3625I; RRT, 216:27:47; 00:29; NOUN 69 is NA; DQ, 4.00, 02:09; 00:l8, 03:33, 08:07; sextant star, 30, 354.3, 30.7; boresight star, Nu Hydra, up 21.1, left 2.8, up lift vector. Comments: Use 1, nonexit EMS pattern; 2, Moon check, Moon in left of window: roll 000, 182, 000; 3, Moonset GET, 216 plus 25 plus 15- HET of 90,000 feet, 6 plus 29. Main deploy, 8 plus 54. Landing, 13 plus 52. Constant-g entry is roll right. GDC aline, 322, 325, 018. And for your information, the MSFN values of. gamma at entry interface are minus 6.39, comparing with the navigated value prior to this last set of P23s of minus 6.42. The MSFN vacuum perigee, 20.6. Your onboard vacuum perigee, 20.1. And back under GDC aline, it's Sirius and Rigel for the stars. Read back. Over.
+211:05:31|CC|Roger. Entry: mid-Pacific area; roll at .05g: 000, 154, 000; 216:10:47; 267; minus 27.02, minus 172.65; MAX g, 06.2; 36170, 6.39; l140.2, 3625I; RRT, 216:27:47; 00:29; NOUN 69 is NA; DQ, 4.00, 02:09; 00:l8, 03:33, 08:07; sextant star, 30, 354.3, 30.7; boresight star, Nu Hydra, up 21.1, left 2.8, up lift vector. Comments: Use 1, nonexit EMS pattern; 2, Moon check, Moon in left of window: roll 000, 182, 000; 3, Moonset GET, 216 plus 25 plus 15- HET of 90,000 feet, 6 plus 29. Main deploy, 8 plus 54. Landing, 13 plus 52. Constant-g entry is roll right. GDC aline, 322, 325, 018. And for your information, the MSFN values of. gamma at entry interface are minus 6.39, comparing with the navigated value prior to this last set of P23s of minus 6.42. The MSFN vacuum perigee, 20.6. Your onboard vacuum perigee, 20.1. And back under GDC aline, it's Sirius and Rigel for the stars. Read back. Over.
 211:09:14|LMP|Okay, Bruce, we have a MEDPAC landing at zero -Roll, pitch, and yaw: 000, 154, 000; 216:10:47; 267; minus 27.02, minus 172.65; MAX g is 06.2; 36170, 6.39; 1140.2, 36251; 216:27:47; 00:29; Dq is 4.00, 02:09; 00:18, 03:33, 08:07; sextant star, 30, 354.3, 30.7; Nu Hydra, up 21.1, left 2.8, lift vector, up. Use nonexit EMS pattern.
 211:10:30|LMP|Okay, for the Moon-check attitude, it's in the left of the window; and we should be at roll 000, 182, 000; and Moonset is at 216:25:15. RET of 90 K is 06:29; mains are 08:54; landing's at 13:52. For constant-g, roll right. GDC aline stars are Sirius and Rigel, with angles of 322, 325, 0l8, The MSFN entry gamma is minus 6.39-Onboard gamma, 6.42. Hp is 20.6 and 20.1.
 211:11:20|CC|Roger, 14. Readback correct. Out.
@@ -3452,7 +3452,7 @@
 211:31:48|LMP|Go ahead.
 211:31:50|CC|After Stu finishes his marks on this last star, we'd like him to stand by for a possible rerun of star 22, in the present attitude and configuration; we also have to do a ground-tracking-station handover here, and we'll do that after he finishes marking on this star and advise you. Over.
 211:32:15|LMP|Understand.
-211:39:13|CC|14, this is Houston. If you'll give us POO and ACCEPT, we'd like to uplink to you a new CSM state vector for the LM slot. The - the desired orientation and entry LAT and LONG. Over.
+211:39:13|CC|14, this is Houston. If you'll give us P00 and ACCEPT, we'd like to uplink to you a new CSM state vector for the LM slot. The - the desired orientation and entry LAT and LONG. Over.
 211:39:28|LMP|You've got it.
 211:39:29|CC|Okay.
 211:46:53|CC|14, this is Houston. We have finished with the uplink. The computer's yours. Our recanmendation on the P23 sightings is that you return to star 22 and take additional marks until you are satisfied with the magnitude of the DELTA-R, DELTA-V updates, or until we start running shy on time. It looks now like we can slip the initial P52 you have scheduled at 212 hours down to about 213 hours, since we have canceled midcourse 7. Over.
@@ -3522,12 +3522,12 @@
 214:11:31|LMP|Go ahead, Houston.
 214:11:33|CC|If you're interested, I have an update on the weather for you. Over.
 214:11:39|LMP|All right. Stand by. Okay, go ahead with your weather update.
-214:11:44|CC|Roger. At your planned landing area, the general condition is good. You've got 2000 feet scattered, high broken, and 10-mile visibility. The wind is 120 degrees at 15- Wave height is 4 feet, with a southerly swell of 4 feet. The altimeter is 3006 or minus 128-foot pressure altitude. GMT computed for your landing is 21:05 on the ninth. Sunrise was at 17:15 in the night; sunset at 06:20:00 on the tenth. That's for your G&N target point; and over at the constant-g target point, there's really no significant change between the order at the two places. Your recovery forces standing by are the landing platform helicopter, New Orleans, which is 5 miles from the target point. Swim 1 and 2, SH-3 helicopters in the vicinity of the target point, and the ship Ponchatoula at the backup target point; it?s an A0, oiler. Other support, you've got Photo 1 and Relay 1, and SH-3 helicopters in the vicinity of the target point that are providing photo and voice coverage, and Samoa Rescue 1 and 2, HC-130s that are about 45 minutes away. Over.
+214:11:44|CC|Roger. At your planned landing area, the general condition is good. You've got 2000 feet scattered, high broken, and 10-mile visibility. The wind is 120 degrees at 15- Wave height is 4 feet, with a southerly swell of 4 feet. The altimeter is 3006 or minus 128-foot pressure altitude. GMT computed for your landing is 21:05 on the ninth. Sunrise was at 17:15 in the night; sunset at 06:20:00 on the tenth. That's for your G&N target point; and over at the constant-g target point, there's really no significant change between the order at the two places. Your recovery forces standing by are the landing platform helicopter, New Orleans, which is 5 miles from the target point. Swim 1 and 2, SH-3 helicopters in the vicinity of the target point, and the ship Ponchatoula at the backup target point; It's an A0, oiler. Other support, you've got Photo 1 and Relay 1, and SH-3 helicopters in the vicinity of the target point that are providing photo and voice coverage, and Samoa Rescue 1 and 2, HC-130s that are about 45 minutes away. Over.
 214:13:35|LMP|Okay, Houston. I believe I got all of that, and I hope to be in contact with the New Orleans then very soon.
 214:13:44|CC|Roger.
 214:17:26|CMP|And, Houston; 14. The EKE checks out real fine.
 214:17:32|CC|Roger, Stu. Copy EMS entry check complete.
-214:23:59|CC|14, this is Houston. If you could give us POO and ACCEPT, we have your final state vector uplink for you. Over.
+214:23:59|CC|14, this is Houston. If you could give us P00 and ACCEPT, we have your final state vector uplink for you. Over.
 214:24:11|CMP|Okay, Bruce. You've got it.
 214:24:14|CC|Roger.
 214:26:16|CC|14, Houston. We're through with the computer; the uplink's in, and you've got a MSEN state vector in both slots. Over.
