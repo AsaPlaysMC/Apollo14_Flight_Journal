@@ -1,19 +1,4 @@
-#if (@type == 'CM')
-<div class="utterance afjob">
-    <span class="afjwhen">@timestamp</span>
-    <span class="afjwho">@who (onboard):</span>
-    <span class="words">@words</span>
-#else
-#if (@who == 'PAO')
-<div class="utterance afjpao">
-    <span class="afjwhen">@timestamp</span>
-    <span class="afjwho">@who:</span>
-    <span class="words">@words</span>
-#else
-<div class="utterance afjtec">
-    <span class="afjwhen">@timestamp</span>
-    <span class="afjwho">@who:</span>
-    <span class="words">@words</span>
+#if(@type == 'CM')
+<div class="onboard"><b>@timestamp @who (onboard): </b>@words</div>
+#else<div><b>@timestamp @who: </b>@words</div>
 #end
-#end
-</div>

@@ -79,13 +79,13 @@ for combined_list_item in combined_list:
             if type(combined_list_item) is TranscriptItem:
                 words_modified = combined_list_item.words.replace("O2", "O<sub>2</sub>")
                 words_modified = words_modified.replace("H2", "H<sub>2</sub>")
-                # who_modified = combined_list_item.who.replace("CDR", "Cernan")
-                # who_modified = who_modified.replace("CMP", "Evans")
-                # who_modified = who_modified.replace("LMP", "Schmitt")
+                who_modified = combined_list_item.who.replace("CDR", "Shepard")
+                who_modified = who_modified.replace("CMP", "Roosa")
+                who_modified = who_modified.replace("LMP", "Mitchell")
                 item_template = template_loader.load_template('template_afj_item_utterance.html')
                 output_file.write(item_template.render({'timeid': timeid,
                                                         'timestamp': combined_list_item.timestamp,
-                                                        'who': combined_list_item.who,
+                                                        'who': who_modified,
                                                         'words': words_modified,
                                                         'type': combined_list_item.type},
                                                        loader=template_loader))
