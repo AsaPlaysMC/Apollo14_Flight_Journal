@@ -4,10 +4,7 @@
     <list default="true" id="0ea3315d-d88b-45a4-9411-c650757d27dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old_flight_journal/ap14fj/01_day01_launch.htm" afterPath="$PROJECT_DIR$/old_flight_journal/ap14fj/01_day01_launch.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_AFJ/_webroot/A14FJ_remaining.html" afterPath="$PROJECT_DIR$/_AFJ/_webroot/A14FJ_remaining.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_AFJ/createA14FJ.py" afterPath="$PROJECT_DIR$/_AFJ/createA14FJ.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old_flight_journal/ap14fj/index.htm" afterPath="$PROJECT_DIR$/old_flight_journal/ap14fj/index.htm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_AFJ/templates/template_afj_header.html" afterPath="$PROJECT_DIR$/_AFJ/templates/template_afj_header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_AFJ/templates/template_afj_item_utterance.html" afterPath="$PROJECT_DIR$/_AFJ/templates/template_afj_item_utterance.html" />
     </list>
     <ignored path="Apollo14.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +20,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Apollo14$cleanTECcsv.coverage" NAME="cleanTECcsv Coverage Results" MODIFIED="1431207315990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Processing_Scripts" />
-    <SUITE FILE_PATH="coverage/Apollo14$createA14FJ.coverage" NAME="createA14FJ Coverage Results" MODIFIED="1431293606344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_AFJ" />
+    <SUITE FILE_PATH="coverage/Apollo14$createA14FJ.coverage" NAME="createA14FJ Coverage Results" MODIFIED="1431296364250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_AFJ" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -71,8 +68,8 @@
       <file leaf-file-name="01_day01_launch.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/old_flight_journal/ap14fj/01_day01_launch.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12445095">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.32916668">
+              <caret line="215" column="256" selection-start-line="215" selection-start-column="256" selection-end-line="215" selection-end-column="256" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -83,8 +80,8 @@
       <file leaf-file-name="template_afj_header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_AFJ/templates/template_afj_header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.4125">
-              <caret line="48" column="10" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="10" />
+            <state vertical-scroll-proportion="-4.3625">
+              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -123,9 +120,9 @@
         <option value="$PROJECT_DIR$/_AFJ/_webroot/styles.css" />
         <option value="$PROJECT_DIR$/old_flight_journal/ap14fj/index.htm" />
         <option value="$PROJECT_DIR$/_AFJ/createA14FJ.py" />
+        <option value="$PROJECT_DIR$/_AFJ/templates/template_afj_item_utterance.html" />
         <option value="$PROJECT_DIR$/_AFJ/templates/template_afj_header.html" />
         <option value="$PROJECT_DIR$/old_flight_journal/ap14fj/01_day01_launch.htm" />
-        <option value="$PROJECT_DIR$/_AFJ/templates/template_afj_item_utterance.html" />
       </list>
     </option>
   </component>
@@ -705,12 +702,12 @@
       <updated>1430441258036</updated>
       <workItem from="1430441259279" duration="3850000" />
       <workItem from="1430959505223" duration="14000" />
-      <workItem from="1431178388985" duration="14781000" />
+      <workItem from="1431178388985" duration="17685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18645000" />
+    <option name="totallyTimeSpent" value="21549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1216" extended-state="6" />
@@ -853,14 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_AFJ/templates/template_afj_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4125">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_AFJ/templates/template_afj_item_utterance.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.6153846">
@@ -869,10 +858,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_AFJ/templates/template_afj_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3625">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/old_flight_journal/ap14fj/01_day01_launch.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12445095">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.32916668">
+          <caret line="215" column="256" selection-start-line="215" selection-start-column="256" selection-end-line="215" selection-end-column="256" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
