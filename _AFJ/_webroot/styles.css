@@ -110,7 +110,6 @@ img {
 .afjtec		{color: black;}
 .afjob     	{color: #660000;}
 .afjwho		{font-weight:bold; text-align:right;}
-.afjwho::after	{content: ": "}
 .afjwhen	{font-weight:bold;}
 .afjother	{color: #2B547E;}
 .afjed		{
