@@ -1,5 +1,5 @@
 import csv
-import sys 
+import sys
 import re
 import datetime
 
@@ -20,22 +20,22 @@ def GETFromTimestamp(timestamp):
     minutes = int(values[i])
     i += 1
     seconds = int(values[i])
-    
+
     return str((days * 24) + hours).zfill(3) + ":" + str(minutes).zfill(2) + ":" + str(seconds).zfill(2)
-    
+
     # return (seconds + (minutes * 60) + (hours * 60 * 60) + (days * 24 * 60 * 60)) - SECONDS_OFFSET
 
 
 def append_line(file_name, line_num, text):
     lines = open(file_name, 'r').readlines()
-    
+
     newLine = lines[line_num].replace('\n', '')
     newLine += " " + text + "\n"
     lines[line_num] = newLine
-    
+
     out = open(file_name, 'w')
     out.writelines(lines)
-    out.close()  
+    out.close()
 
 pageCounter = 8
 curReadRow = 0
@@ -62,7 +62,7 @@ for row in reader:
         print 'Timestamp out of order: Page{0} Timestamp:{1}'.format(pageCounter, row[0])
     lastTimestamp = curTimestamp
     # print GETFromTimestamp(row[0])
-    outputLine = '{0}|{1}|{2}\n'.format(GETFromTimestamp(row[0]), row[1], row[2])
+    outputLine = '{0}|{1}|{2}\n'.format(row[0], row[1], row[2])
     outputFile.write(outputLine)
     curWriteRow += 1
     # print outputLine

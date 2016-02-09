@@ -1,0 +1,77 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+a { /* link colour */
+    color: #404040;
+}
+a:visited { /* visited link colour */
+    color: #505050;
+}
+div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #000000;
+}
+.acronLink {
+    color: #202060;
+}
+.comment { /* transcript commentary item */
+    padding-left: 40px;
+    color: #000080;
+}
+.comment::before { /* add square brackets before and after each commentary statement */
+    content: "["
+}
+.comment::after {
+    content: "]"
+}
+.pao {
+    padding-left: 40px;
+    color: #006000;
+}
+.pao::before {
+    font-weight: bold;
+    content: "Public Affairs Officer - "
+}
+.onboard {
+    color: #660000;
+}
+/*.onboard::after {*/
+    /*content: " (onboard) "*/
+/*}*/
+.met {
+    font-weight: bold;
+}
+.shepard {
+    font-weight: bold;
+}
+.shepard::after {
+    content: " Shepard: "
+}
+.evens {
+    font-weight: bold;
+}
+.evens::after {
+    content: " Evens: "
+}
+.roosa {
+    font-weight: bold;
+}
+.roosa::after {
+    content: " Roosa: "
+}
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.photo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.caption {
+    font-size: 90%;
+}
