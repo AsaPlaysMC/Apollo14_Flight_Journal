@@ -81,13 +81,13 @@ def GETFromTimestamp(timestamp):
 pageCounter = 8
 curRow = 0
 
-output_file_name_and_path = "../MISSION_DATA/AS14_TEC_cleaned.csv"
+output_file_name_and_path = "../MISSION_DATA/AS14_TECa_cleaned.csv"
 outputFile = open(output_file_name_and_path, "w")
 
 callsignList = []
 lastTimestamp = 0
 
-for curFile in ["AS14_TEC.csv"]:
+for curFile in ["AS14_TECa.csv"]:
     inputFilePath = "../MISSION_DATA/" + curFile
     reader = csv.reader(open(inputFilePath, "rU"), delimiter='|')
     for row in reader:
@@ -111,5 +111,5 @@ for curFile in ["AS14_TEC.csv"]:
         outputLine = '{0}|{1}|{2}\n'.format(GETFromTimestamp(scrub_timestamp(time_stamp)), scrubbedCallsign, row[5])
             
         outputFile.write(outputLine)
-        # print outputLine
+        print outputLine
 outputFile.close()
