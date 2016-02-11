@@ -1,0 +1,7 @@
+(?:<blockquote>)([\s\S]+?)(?:</blockquote>)
+
+any \n with no whitespace on either side
+(?<!>)\n(?!\s)
+
+(?:<div)(.+?)(?:\(onboard\))
+<div class="onboard"$1(onboard)
