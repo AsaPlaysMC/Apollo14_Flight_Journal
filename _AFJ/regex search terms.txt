@@ -1,7 +1,32 @@
-(?:<blockquote>)([\s\S]+?)(?:</blockquote>)
+double enter to single enter
 
-any \n with no whitespace on either side
+<p>
+<b>
+to
+</div>
+<div><b>
+
+any \n with no tag next to it
 (?<!>)\n(?!\s)
+to
+[space]
+
+<b>Public Affairs Officer</b> - "
+<div class="pao">
+
+"<p>
+</div>
+
+\n
+<b>
+\n
+<div><b>
+
+</font>
+[blank]
+
+(?:<blockquote>\[)([\s\S]+?)(?:\]</blockquote>)
+<div class="comment">$1</div>
 
 (?:<div)(.+?)(?:\(onboard\))
 <div class="onboard"$1(onboard)
