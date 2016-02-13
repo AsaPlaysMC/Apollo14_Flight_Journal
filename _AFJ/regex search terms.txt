@@ -1,26 +1,25 @@
 double enter to single enter
 
-<p>
-<b>
+<p>\n<b>
 to
-</div>
-<div><b>
+</div>\n<div><b>
 
 any \n with no tag next to it
 (?<!>)\n(?!\s)
 to
 [space]
 
-<b>Public Affairs Officer</b> - "
+<div><b>Public Affairs Officer</b> - "
 <div class="pao">
 
-"<p>
+<p>
 </div>
 
-\n
-<b>
-\n
-<div><b>
+\n<b>
+\n<div><b>
+
+(?:)
+[blank]
 
 </font>
 [blank]
@@ -30,3 +29,6 @@ to
 
 (?:<div)(.+?)(?:\(onboard\))
 <div class="onboard"$1(onboard)
+
+.<div
+.\n<div
