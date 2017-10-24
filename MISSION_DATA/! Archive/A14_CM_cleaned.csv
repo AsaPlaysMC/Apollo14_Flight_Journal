@@ -268,7 +268,7 @@
 00 00 30 56|CMP|I'll get the cameras in a little bit.
 00 00 30 57|LMP|Yes. Okay, we're in no hurry - -
 00 00 30 59|CMP|I'm going to read my optics dust cover jettison.
-00 00 31 01|LMP|Okay þ
+00 00 31 01|LMP|Okay Ã¾
 00 00 31 02|CDR|Yes. We didn't have to worry about the cameras before.
 00 00 31 04|LMP|60, 90. 60, 90.
 00 00 31 05|CMP|Yes.
@@ -753,7 +753,7 @@
 00 02 00 49|CDR|Okay, two ULLAGE breakers going closed.
 00 02 00 52|LMP|And I'm cycling the cryo fans.
 00 02 00 54|CDR|Okay, ...
-00 02 00 57|CMP|.þ. gone to AUTO?
+00 02 00 57|CMP|.Ã¾. gone to AUTO?
 00 02 00 58|LMP|Hill?
 00 02 00 59|CMP|
 00 02 01 01|LMP|No.
@@ -809,7 +809,7 @@
 00 02 04 21|CDR|Uh-huh.
 00 02 04 22|CMP|Sitting here, quiet. The visual's a little better.
 00 02 05 16|CDR|This seems to be a light flashing by.
-00 02 05 35|CDR|{Humming - \"Give My Regards to 3roadway\")
+00 02 05 35|CDR|{Humming - 'Give My Regards to 3roadway')
 00 02 06 48|CDR|You shouldn't be rolling.
 00 02 06 49|CMP|Huh?
 00 02 06 50|CDR|You shouldn't he rolling.
@@ -1043,7 +1043,7 @@
 00 02 27 40|LMP|It's counting us down.
 00 02 27 41|CDR|Yes. It?s counting ...
 00 02 27 43|LMP|Okay. At 59 minutes, Al, you should have 12 50 -12.5. Is it after 59?
-00 02 27 54|CDR|59:19 þ
+00 02 27 54|CDR|59:19 Ã¾
 00 02 27 56|LMP|Okay.
 00 02 28 17|CDR|S-1I SEP light out on time.
 00 02 28 18|LMP|Okay, T. minus 18.
@@ -1946,7 +1946,7 @@
 03 09 56 48|CDR|Both tanks look good.
 03 09 56 52|CMP|Okay. Steering is good.
 03 09 56 54|CDR|Steering is good; GDC ball's good; needle is good.
-03 09 56 57|CMP|She's steady as a rock. P^'s uP 1ø 100.
+03 09 56 57|CMP|She's steady as a rock. P^'s uP 1Ã¸ 100.
 03 09 57 04|LMP|Okay. You're still in tight limits.
 03 09 57 05|CMP|We got the light before we got the bang that time. I saw it. I hadn't noticed that on midcourse 2. She's steady. GDC BMAGs are good.
 03 09 57 17|CDR|Okay ... - -
@@ -2307,7 +2307,7 @@
 03 11 59 18|CDR|Yes; just a second, Ed.
 03 11 59 21|CMP|Ready to go?
 03 11 59 27|CDR|Yes, I'll - I'll flush the water, Ed. I'll he right down there.
-03 11 59 31|þLMP|Okay.
+03 11 59 31|Ã¾LMP|Okay.
 03 11 59 37|CDR|And you can start the hydrogen and oxygen purge at 5 0. That's 10 minutes.
 03 11 59 44|LMP|Okay.
 03 11 59 46|CDR|And the waste water dump.
@@ -3063,7 +3063,7 @@
 03 15 57 13|LMP|I tcld that noisy son of a bitch tc float around somewhere else.
 03 15 57 23|CMP|You're not clear enough. I don't know, they sot bad acoustics.
 03 15 57 31|LMP|One thing about that, you can just let it float, and you can always find it.
-03 15 58 33|CMP|Why don't you turn it off, there, and save the battery? I need the switch system. Throw the tape over, þ Or did you do that?
+03 15 58 33|CMP|Why don't you turn it off, there, and save the battery? I need the switch system. Throw the tape over, Ã¾ Or did you do that?
 03 15 58 44|CDR|I'll get it in a minute.
 03 15 58 54|CDR|Flip it over and hear the other side?
 03 15 58 57|CMP|Yes, why don?t you, if you don't mind. God, I didn't want to - didn't want to impose on you there.
@@ -4227,7 +4227,7 @@
 08 23 42 30|CMP|Okay, Al, here we need - -
 08 23 42 32|CDR|Seme more light.
 08 23 42 33|CMP|Yes. Thank you. Beautiful. We need CMC, RATE COMMAND, in case we go SCS; and, other than that, she looks good.
-08 23 42 50|CDR|Need EMS ROLL and .05g¯ also.
+08 23 42 50|CDR|Need EMS ROLL and .05gÂ¯ also.
 08 23 42 53|CMP|That's right, and we need this to back up at 32.
 08 23 42 58|CDR|If it doesn't work.
 08 23 42 59|CMP|If it doesn't work. No matter what that reads, at 32, this switch goes off.
